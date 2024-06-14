@@ -141,7 +141,7 @@
 <br>
 <div align="left">
   <h3>Platoon.Console - Apr 2024</h3>
-  <a href="https://github.com/DJ/Platoon.Console">github.com/DJ/Platoon.Console</a>
+  <a href="https://github.com/L-Carr/Platoon-Console">github.com/DJ/Platoon.Console</a>
     <p> </p>
   <p>Web application dashboard for managing Code Platoon cohorts, offering centralized access to course materials. Built using Python, JavaScript ES6, Django, React, and a PostgreSQL database with Google API.</p>
   <br/>
@@ -153,24 +153,21 @@
 <br/>
 
 <hr/>
-<br>
+<br><!--
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/its-michaelroy/its-michaelroy/output/github-contribution-grid-snake.svg" />
   <br/>
-</div>
-
-<hr/>
-<br/>
+</div>-->
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
   <img width=390 src="https://github-readme-streak-stats-ivory-three.vercel.app?user=its-michaelroy&count_public=true&theme=nightowl&border_radius=10&card_width=400" alt="GitHub Streak Stats"/><br/><br/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=its-michaelroy&count_public=true&show_icons=true&theme=nightowl&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/><br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-michaelroy&hide=HTML&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats%22" alt="Most Used Languages" />
+  <br/><!--<br/>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-michaelroy&hide=HTML&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats%22" alt="Most Used Languages" />-->
 </div>
 <br/>
 
