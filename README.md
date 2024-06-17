@@ -103,7 +103,17 @@
 
   😎 Current hobbies: **Learning Portuguese 🇧🇷, Reading 📚, Digital Crafting 🧙‍♂️+💻**
 </div>
-<br/>
+<br/>?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
+<p align="center">
+      <a href="https://www.linkedin.com/in/michaelroy91">
+         <img alt="My LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+      <a href="https://mrcodewizard.com/">
+         <img alt="My Portfolio" title="Portfolio Site" src="https://img.shields.io/badge/Portfolio-EE0000?style=flat&logo=redhat&logoColor=white"/></a>
+      <a href="mailto:michael.roy@mrcodewizard.com">
+         <img alt="Email" title="Reach out!" src="https://img.shields.io/badge/Email-6D4AFF?style=flat&logo=protonmail&logoColor=white"/></a>
+        <a href="https://buymeacoffee.com/michaelroy">
+        <img alt="Buy Me A Coffee" title="Buy this guy a coffee!" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
+   </p>
 <hr/>
 
 <!--
@@ -150,8 +160,9 @@
   <p> </p>
   <p>Web application designed to provide users with educational insights into the potential dangers of asteroid impacts. Built using Python, JavaScript ES6, Django, React and hosted on Render with NASA’s Sentry API.</p>
 </div>
-<br/>
 
+<br/>
+<!-->
 <hr/>
 <br>
 <div align="center">
@@ -160,11 +171,11 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/its-michaelroy/its-michaelroy/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
-
+-->
 <hr/>
 <br/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">📊 Stats 📊</h2>
 <br>
 <div align="center">
   <img width=390 src="https://github-readme-streak-stats-ivory-three.vercel.app?user=its-michaelroy&count_public=true&theme=nightowl&border_radius=10&card_width=400" alt="GitHub Streak Stats"/><br/><br/>
@@ -177,8 +188,9 @@
 <hr/>
 
 <div align="center">
+<details>
   <br>
-  <h2>🧙‍♂️+☕️ Crafting Code and Cultivating Calmness 🌴+📚</h2>
+ <summary><h2>🧙‍♂️+☕️ Crafting Code and Cultivating Calmness 🌴+📚</h2></summary>
   <br>
   As a dedicated Software Developer and DevOps Engineer, I immerse myself in software development, cloud architecture, and continual learning. My professional journey is driven by a passion for growth, building robust, scalable solutions, and making a meaningful impact with my skillset.
 
