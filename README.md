@@ -103,14 +103,14 @@
 
   😎 Current hobbies: **Learning Portuguese 🇧🇷, Reading 📚, Digital Crafting 🧙‍♂️+💻**
 </div>
-<br/>?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
+<br/>
 <p align="center">
       <a href="https://www.linkedin.com/in/michaelroy91">
-         <img alt="My LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+         <img alt="My LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
       <a href="https://mrcodewizard.com/">
-         <img alt="My Portfolio" title="Portfolio Site" src="https://img.shields.io/badge/Portfolio-EE0000?style=flat&logo=redhat&logoColor=white"/></a>
+         <img alt="My Portfolio" title="Portfolio Site" src="https://img.shields.io/badge/Portfolio-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/></a>
       <a href="mailto:michael.roy@mrcodewizard.com">
-         <img alt="Email" title="Reach out!" src="https://img.shields.io/badge/Email-6D4AFF?style=flat&logo=protonmail&logoColor=white"/></a>
+         <img alt="Email" title="Reach out!" src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
         <a href="https://buymeacoffee.com/michaelroy">
         <img alt="Buy Me A Coffee" title="Buy this guy a coffee!" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
    </p>
@@ -172,8 +172,6 @@
   <br/>
 </div>
 -->
-<hr/>
-<br/>
 
 <h2 align="center">📊 Stats 📊</h2>
 <br>
