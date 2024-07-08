@@ -93,15 +93,15 @@
 <hr/>
 
 <div align="center">
-    <h3>Short Bio</h3>
+    <h2>📜 Short Bio 📜</h2>
 
-  🔭 I'm deeply passionate about diving into specialized fields like fintech and AI as I continue my coding journey. Follow along as I explore and grow in these technologies, aiming to apply my skills to make a significant impact and better life for others!
+  🔭 I'm deeply passionate about diving into specialized fields like fintech, cybersecurity and AI, going deep into technologies such as Python libraries, machine learning algorithms, and data analytics. My focus is on mastering these tools to create innovative solutions that can make a significant impact and improve lives. Follow along as I explore cutting-edge tech, share insights, and collaborate on projects that push the boundaries of what's possible in these expanding fields!
 
-  💬 Ask me about **Data Centers, and funny phrases in Portuguese.**
+  💬 Ask me about **Running servers inside of mountains and teaching funny phrases in Portuguese — I specialize in deep data and even deeper laughs!**
 
-  ⚡ Fun fact: **It makes sense if you don't think about it.**
+  ⚡ Fun fact: **Managing data centers 300 feet underground — it's like Minecraft, but the stakes are real and the creepers wear suits.**
 
-  😎 Current hobbies: **Learning Portuguese 🇧🇷, Reading 📚, Digital Crafting 🧙‍♂️+💻**
+  😎 Current hobbies: **Mastering Portuguese one "obrigado" at a time 🇧🇷, nraveling stories in my ever-growing book stack 📚, and weaving magic in the digital crafting realm 🧙‍♂️+💻**
 </div>
 <br/>
 <p align="center">
@@ -178,8 +178,8 @@
 <div align="center">
   <img width=390 src="https://github-readme-streak-stats-ivory-three.vercel.app?user=its-michaelroy&count_public=true&theme=nightowl&border_radius=10&card_width=400" alt="GitHub Streak Stats"/><br/><br/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=its-michaelroy&count_public=true&show_icons=true&theme=nightowl&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/><!--<br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-michaelroy&hide=HTML&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats%22" alt="Most Used Languages" />-->
+  <br/><br/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-michaelroy&hide=HTML&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats%22" alt="Most Used Languages" />
 </div>
 <br/>
 
