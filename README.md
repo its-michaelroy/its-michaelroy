@@ -16,26 +16,23 @@
     <tr>
       <td align="left" style="border: none;">
         <h3 align="center">Languages</h3>
-        <a href="https://go.dev/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=go" alt="Go Icon" /></a>
-        <a href="https://nodejs.org/docs/latest/api/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js Icon" /></a>
         <a href="https://www.python.org/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python Icon" /></a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript Icon" /></a>
         <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript Icon" /></a>
+        <a href="https://go.dev/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=go" alt="Go Icon" /></a>
+        <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" alt="C# Icon" /></a>
+        <a href="https://nodejs.org/docs/latest/api/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js Icon" /></a>
       </td>
-      <td align="center">
-        <h3>Frameworks & Libraries</h3>
+      <td align="right">
+        <h3 align="center">Frameworks & Libraries</h3>
         <a href="https://react-bootstrap.netlify.app/docs/getting-started/introduction" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap Icon" /></a>
         <a href="https://docs.djangoproject.com/en/5.0/" target="_blank"><img src="https://skillicons.dev/icons?i=django" alt="Django Icon" /></a>
         <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" alt="Flask Icon" /></a>
         <a href="https://vitejs.dev/guide/" target="_blank"><img src="https://skillicons.dev/icons?i=vite" alt="Vite Icon" /></a>
         <a href="https://react.dev/learn" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React Icon" /></a>
         <a href="https://docs.cypress.io/guides/component-testing/react/overview" target="_blank"><img src="https://skillicons.dev/icons?i=cypress" alt="Cypress Icon" /></a>
-      </td>
-      <td align="right">
-        <h3 align="center">Databases</h3>
-        <a href="https://www.postgresql.org/docs/16/index.html" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL Icon" /></a>
-        <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL Icon" /></a>
-        <a href="https://docs.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB Icon" /></a>
+        <a href="https://nextjs.org/docs" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js Icon" /></a>
+        <a href="https://mui.com/getting-started/usage/" target="_blank"><img src="https://skillicons.dev/icons?i=materialui" alt="Material UI Icon" /></a>
       </td>
     </tr>
   </table>
@@ -51,6 +48,7 @@
         <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub Icon" /></a>
         <a href="https://git-scm.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git Icon" /></a>
         <a href="https://www.linux.org/forums/#linux-tutorials.122" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux Icon" /></a>
+        <a href="https://vercel.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel Icon" /></a>
       </td>
       <td align="center">
         <h3>CI/CD Tools</h3>
@@ -74,22 +72,45 @@
     <tr>
       <td align="left">
           <div align="center">
-        <h3>Automation & Configuration Management</h3>
+        <h3>Automation</h3>
         <a href="https://docs.ansible.com/ansible/latest/index.html" target="_blank"><img src="https://skillicons.dev/icons?i=ansible" alt="Ansible Icon" /></a>
         <a href="https://www.terraform.io/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform Icon" /></a>
           </div>
       </td>
-      <td align="right">
+      <td align="center">
           <div align="center">
         <h3>Monitoring & Logging</h3>
         <a href="https://prometheus.io/docs/introduction/overview/" target="_blank"><img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus Icon" /></a>
         <a href="https://grafana.com/docs/grafana/latest/getting-started/introduction/" target="_blank"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana Icon" /></a>
           </div>
       </td>
+      <td align="right">
+        <h3 align="center">Databases</h3>
+        <a href="https://www.postgresql.org/docs/16/index.html" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL Icon" /></a>
+        <!-- <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL Icon" /></a> -->
+        <!-- <a href="https://docs.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB Icon" /></a> -->
+        <a href="https://firebase.google.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase Icon" /></a>
+      </td>
     </tr>
   </table>
 </div>
 <br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>Testing & TDD</h3>
+        <a href="https://jestjs.io/docs/getting-started" target="_blank"><img src="https://skillicons.dev/icons?i=jest" alt="Jest Icon" /></a>
+        <a href="https://www.cypress.io/" target="_blank"><img src="https://skillicons.dev/icons?i=cypress" alt="Cypress Icon" /></a>
+        <a href="https://playwright.dev/" target="_blank"><img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright Icon" style="width: 48px; height: 48px; /></a>
+        <a href="https://pptr.dev/" target="_blank"><img src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" alt="Puppeteer Icon" style="width: 36px; height: 48px;" /></a>
+        <!-- <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon" /></a> -->
+        <!-- <a href="https://www.thunderclient.com/" target="_blank"><img src="https://skillicons.dev/icons?i=custom" alt="Thunder Client Icon" /></a> -->
+      </td>
+    </tr>
+  </table>
+</div>
 <hr/>
 
 <div align="center">
@@ -151,7 +172,7 @@
 <br>
 <div align="left">
   <h3>Platoon.Console - Apr 2024</h3>
-  <a href="https://github.com/L-Carr/Platoon-Console">github.com/DJ/Platoon.Console</a>
+  <a href="https://github.com/L-Carr/Platoon-Console">github.com/L-Carr/Platoon.Console</a>
     <p> </p>
   <p>Web application dashboard for managing Code Platoon cohorts, offering centralized access to course materials. Built using Python, JavaScript ES6, Django, React, and a PostgreSQL database with Google API.</p>
   <br/>
