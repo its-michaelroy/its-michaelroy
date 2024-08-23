@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center" style="border: none;">Hello, my name is Michael Roy!</h1>
-<h1 align="center" style="border: none;">🎖️ Veteran Technical Manager & Software Developer 🎖️</h1>
+<h1 align="center" style="border: none;">🎖️ Software Engineer | Veteran | Technical Team Lead 🎖️</h1>
 <hr>
 <br>
 
@@ -19,7 +19,7 @@
         <a href="https://www.python.org/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python Icon" /></a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript Icon" /></a>
         <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript Icon" /></a>
-        <a href="https://go.dev/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=go" alt="Go Icon" /></a>
+        <!-- <a href="https://go.dev/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=go" alt="Go Icon" /></a> -->
         <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" alt="C# Icon" /></a>
         <a href="https://nodejs.org/docs/latest/api/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js Icon" /></a>
       </td>
@@ -30,7 +30,7 @@
         <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" alt="Flask Icon" /></a>
         <a href="https://vitejs.dev/guide/" target="_blank"><img src="https://skillicons.dev/icons?i=vite" alt="Vite Icon" /></a>
         <a href="https://react.dev/learn" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React Icon" /></a>
-        <a href="https://docs.cypress.io/guides/component-testing/react/overview" target="_blank"><img src="https://skillicons.dev/icons?i=cypress" alt="Cypress Icon" /></a>
+        <!-- <a href="https://docs.cypress.io/guides/component-testing/react/overview" target="_blank"><img src="https://skillicons.dev/icons?i=cypress" alt="Cypress Icon" /></a> -->
         <a href="https://nextjs.org/docs" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js Icon" /></a>
         <a href="https://mui.com/getting-started/usage/" target="_blank"><img src="https://skillicons.dev/icons?i=materialui" alt="Material UI Icon" /></a>
       </td>
@@ -48,7 +48,7 @@
         <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub Icon" /></a>
         <a href="https://git-scm.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git Icon" /></a>
         <a href="https://www.linux.org/forums/#linux-tutorials.122" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux Icon" /></a>
-        <a href="https://vercel.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel Icon" /></a>
+        <!-- <a href="https://vercel.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel Icon" /></a> -->
       </td>
       <td align="center">
         <h3>CI/CD Tools</h3>
@@ -81,7 +81,7 @@
           <div align="center">
         <h3>Monitoring & Logging</h3>
         <a href="https://prometheus.io/docs/introduction/overview/" target="_blank"><img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus Icon" /></a>
-        <a href="https://grafana.com/docs/grafana/latest/getting-started/introduction/" target="_blank"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana Icon" /></a>
+        <!-- <a href="https://grafana.com/docs/grafana/latest/getting-started/introduction/" target="_blank"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana Icon" /></a> -->
           </div>
       </td>
       <td align="right">
@@ -116,7 +116,7 @@
 <div align="center">
     <h2>📜 Short Bio 📜</h2>
 
-  🔭 I'm deeply passionate about diving into specialized fields like fintech, cybersecurity and AI, going deep into technologies such as Python libraries, machine learning algorithms, and data analytics. My focus is on mastering these tools to create innovative solutions that can make a significant impact and improve lives. Follow along as I explore cutting-edge tech, share insights, and collaborate on projects that push the boundaries of what's possible in these expanding fields!
+  🔭 I'm passionate about leveraging technology to drive innovation in healthcare and fintech. While I've enjoyed working with dynamic languages like Python and JavaScript, I'm increasingly drawn to the stability, performance, and enterprise-level support offered by C#. As a memory-safe language, C# helps prevent common vulnerabilities and ensures the security and reliability of critical applications. I'm focused on mastering C# and related .NET tools to develop robust and scalable solutions that meet the stringent requirements of these industries and looking forward to seeing what is possible in these expanding fields!
 
   💬 Ask me about **Running servers inside of mountains and teaching funny phrases in Portuguese — I specialize in deep data and even deeper laughs!**
 
@@ -171,15 +171,37 @@
 <h2 align="center">📚 Projects 📚</h2>
 <br>
 <div align="left">
-  <h3>Platoon.Console - Apr 2024</h3>
+  <a href="https://github.com/its-michaelroy/ValidationStation" target="_blank"><img src="https://michaelroy.dev/images/validation.png" alt="Validation Station" style="width: 100px; height: 100px;"/></a>
+  <h3>Validation Station - Mar 2024</h3>
+  <a href="https://github.com/its-michaelroy/ValidationStation">github.com/its-michaelroy/ValidationStation</a>
+    <p> </p>
+  <p>Application created for businesses as a way to create a database of valid contact information and for individual use as a way to avoid spam via email and phone calls. Future use will include a way to import and export csv data for blacklist and whitelist. Built using Python, JavaScript ES6, Django, React, and a PostgreSQL database for storing user Login, Email, and Phone information. Utilizes API for email and phone number validation from Big Data Cloud.</p>
+  <br/>
+  <a href="https://github.com/L-Carr/Platoon-Console" target="_blank"><img src="https://michaelroy.dev/images/platoon-console-v3.svg" alt="Platoon Console" style="width: 100px; height: 100px;"/></a>
+  <h3>Platoon Console - Apr 2024</h3>
   <a href="https://github.com/L-Carr/Platoon-Console">github.com/L-Carr/Platoon.Console</a>
     <p> </p>
   <p>Web application dashboard for managing Code Platoon cohorts, offering centralized access to course materials. Built using Python, JavaScript ES6, Django, React, and a PostgreSQL database with Google API.</p>
   <br/>
+  <a href="https://deep-impact.onrender.com/" target="_blank"><img src="https://michaelroy.dev/images/DeepImpact.jpeg" alt="Earth Comet!" style="width: 100px; height: 100px;"/></a>
   <h3 id="deep-impact">Deep Impact - May 2024</h3>
   <a href="https://deep-impact.onrender.com/">deep-impact.onrender.com/</a>
   <p> </p>
   <p>Web application designed to provide users with educational insights into the potential dangers of asteroid impacts. Built using Python, JavaScript ES6, Django, React and hosted on Render with NASA’s Sentry API.</p>
+  <br/>
+  <a href="https://ai-stock-smart-ims.vercel.app/" target="_blank"><img src="https://github.com/its-michaelroy/StockSmart-IMS/blob/main/images/stocksmart.png?raw=true" alt="Jenkins Icon" style="width: 100px; height: 100px;"/></a>
+  <h3>Stock Smart Pantry Tracker - Jul 2024</h3>
+  <a href="https://ai-stock-smart-ims.vercel.app/">ai-stock-smart-ims.vercel.app</a>
+    <p> </p>
+  <p>Project showcases expertise in modern web development frameworks, data management with full CRUD (Create, Read, Update, Delete) capabilities, and user interface design using MUI components.
+  Built a real-time pantry tracking application with React, NextJS, MUI, and Firebase.</p>
+  <br/>
+  <a href="https://github.com/Headstarters/Flash-card-app" target="_blank"><img src="https://private-user-images.githubusercontent.com/112669067/359318650-314791b6-8be6-4ef8-b01a-08147063f451.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ0NDk4MDksIm5iZiI6MTcyNDQ0OTUwOSwicGF0aCI6Ii8xMTI2NjkwNjcvMzU5MzE4NjUwLTMxNDc5MWI2LThiZTYtNGVmOC1iMDFhLTA4MTQ3MDYzZjQ1MS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgyM1QyMTQ1MDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NmZlNDNjYWI0NjBlZmQwOWI5MjQzNDgwZWJhY2ZiZGMwNDM4OTBlNjg2ZjhkNTdiNmU0NTM5MzcyNjkzZTZlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.dMHLsc-7yO8yGRHBm4NM-ZeZvo2HytSxGcL-_0oEA0o" alt="Flash Card Black and blue background" style="width: 100px; height: 100px;"/></a>
+  <h3>FlashAce AI - Aug 2024</h3>
+  <a href="https://github.com/Headstarters/Flash-card-app">github.com/Headstarters/Flash-card-app</a>
+    <p> </p>
+  <p>Dynamic AI flashcard application with study mode, allowing users to generate custom decks for efficient learning.Built using Next, React, JavaScript ES6, MUI, Firebase, Clerk, OpenAI, and Stripe API.</p>
+  <br/>
 </div>
 
 <br/>
