@@ -196,7 +196,7 @@
   <p>Project showcases expertise in modern web development frameworks, data management with full CRUD (Create, Read, Update, Delete) capabilities, and user interface design using MUI components.
   Built a real-time pantry tracking application with React, NextJS, MUI, and Firebase.</p>
   <br/>
-  <a href="https://github.com/Headstarters/Flash-card-app" target="_blank"><img src="https://private-user-images.githubusercontent.com/112669067/359318650-314791b6-8be6-4ef8-b01a-08147063f451.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ0NDk4MDksIm5iZiI6MTcyNDQ0OTUwOSwicGF0aCI6Ii8xMTI2NjkwNjcvMzU5MzE4NjUwLTMxNDc5MWI2LThiZTYtNGVmOC1iMDFhLTA4MTQ3MDYzZjQ1MS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgyM1QyMTQ1MDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NmZlNDNjYWI0NjBlZmQwOWI5MjQzNDgwZWJhY2ZiZGMwNDM4OTBlNjg2ZjhkNTdiNmU0NTM5MzcyNjkzZTZlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.dMHLsc-7yO8yGRHBm4NM-ZeZvo2HytSxGcL-_0oEA0o" alt="Flash Card Black and blue background" style="width: 100px; height: 100px;"/></a>
+  <a href="https://github.com/Headstarters/Flash-card-app" target="_blank"><img src="https://github.com/user-attachments/assets/314791b6-8be6-4ef8-b01a-08147063f451" alt="Flash Card Black and blue background" style="width: 100px; height: 100px;"/></a>
   <h3>FlashAce AI - Aug 2024</h3>
   <a href="https://github.com/Headstarters/Flash-card-app">github.com/Headstarters/Flash-card-app</a>
     <p> </p>
