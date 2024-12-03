@@ -1,0 +1,35 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    # Run daily to update stats
+    - cron: '0 17 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Fetch Stats and Update README
+        env:
+          README_PT: ${{ secrets.README_PT }}
+        run: |
+          # Fetch stats with private contributions included
+          curl -H "Authorization: Bearer $README_PT" \
+            "https://github-readme-stats.vercel.app/api?username=its-michaelroy&count_private=true&show_icons=true&theme=nightowl&rank_icon=github&border_radius=10" \
+            -o stats.svg
+
+          # Update README with the latest stats
+          sed -i '/<!-- START_STATS -->/,/<!-- END_STATS -->/c\<!-- START_STATS -->\n![GitHub Stats](./stats.svg)\n<!-- END_STATS -->' README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add README.md stats.svg
+          git commit -m "Update GitHub Stats"
+          git push
