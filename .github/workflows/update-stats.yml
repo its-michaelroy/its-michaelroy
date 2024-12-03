@@ -23,13 +23,23 @@ jobs:
             "https://github-readme-stats.vercel.app/api?username=its-michaelroy&count_private=true&show_icons=true&theme=nightowl&rank_icon=github&border_radius=10" \
             -o stats.svg
 
-          # Update README with the latest stats
-          sed -i '/<!-- START_STATS -->/,/<!-- END_STATS -->/c\<!-- START_STATS -->\n![GitHub Stats](./stats.svg)\n<!-- END_STATS -->' README.md
+      - name: Fetch Language Stats
+        env:
+          README_PT: ${{ secrets.README_PT }}
+        run: |
+          # Fetch top languages stats
+          curl -H "Authorization: Bearer $README_PT" \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=its-michaelroy&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" \
+            -o lang-stats.svg
+
+      - name: Update README
+        run: |
+          sed -i '/<!-- START_STATS -->/,/<!-- END_STATS -->/c\<!-- START_STATS -->\n<img src="stats.svg" alt="GitHub Stats" width="390"/>\n<img src="lang-stats.svg" alt="Language Stats" width="390"/>\n<!-- END_STATS -->' README.md
 
       - name: Commit and Push Changes
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
-          git add stats.svg README.md
-          git commit -m "Update GitHub Stats"
+          git add stats.svg lang-stats.svg README.md
+          git commit -m "Update GitHub Stats and Language Stats"
           git push
