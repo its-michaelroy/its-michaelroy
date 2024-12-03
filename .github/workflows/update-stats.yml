@@ -3,7 +3,7 @@ name: Update GitHub Stats
 on:
   schedule:
     # Run daily to update stats
-    - cron: '0 17 * * *'
+    - cron: '30 18 * * *'
   workflow_dispatch:
 
 jobs:
