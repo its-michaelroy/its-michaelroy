@@ -14,7 +14,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Fetch Stats and Update README
+      - name: Fetch Stats
         env:
           README_PT: ${{ secrets.README_PT }}
         run: |
@@ -31,6 +31,18 @@ jobs:
           curl -H "Authorization: Bearer $README_PT" \
             "https://github-readme-stats.vercel.app/api/top-langs/?username=its-michaelroy&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" \
             -o lang-stats.svg
+
+      - name: Verify File Creation
+        run: |
+          # List the files in the directory for debugging
+          ls -la
+          # Check if both stats.svg and lang-stats.svg exist
+          if [ -f stats.svg ] && [ -f lang-stats.svg ]; then
+            echo "Both files created successfully."
+          else
+            echo "One or both files are missing!"
+            exit 1
+          fi
 
       - name: Commit and Push Changes
         run: |
