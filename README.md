@@ -220,10 +220,6 @@
 <br>
 <div align="center">
   <img width=390 src="https://github-readme-streak-stats-ivory-three.vercel.app?user=its-michaelroy&count_public=true&theme=nightowl&border_radius=10&card_width=400" alt="GitHub Streak Stats"/><br/><br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=its-michaelroy&count_public=true&count_private=true&show_icons=true&theme=nightowl&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/><br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-michaelroy&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats%22" alt="Most Used Languages" />
-  <br/><br/>
   <img width=390 src="stats.svg" alt="Github Stats"/>
   <br/><br/>
   <img width=390 src="lang-stats.svg" alt="Language Stats"/>
