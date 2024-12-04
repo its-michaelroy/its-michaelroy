@@ -29,7 +29,7 @@ jobs:
         run: |
           # Fetch top languages stats
           curl -H "Authorization: Bearer $README_PT" \
-            "https://github-readme-stats.vercel.app/api/top-langs/?username=its-michaelroy&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=its-michaelroy&count_private=true&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" \
             -o lang-stats.svg
 
       - name: Verify File Creation
