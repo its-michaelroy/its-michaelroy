@@ -44,10 +44,17 @@ jobs:
             exit 1
           fi
 
+      - name: Debug Stats and Language Stats
+        run: |
+          echo "Contents of stats.svg:"
+          cat stats.svg
+          echo "Contents of lang-stats.svg:"
+          cat lang-stats.svg
+
       - name: Commit and Push Changes
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
-          git add stats.svg lang-stats.svg
-          git commit -m "Update GitHub Stats and Language Stats"
+          git add --force stats.svg lang-stats.svg README.md
+          git commit -m "Update GitHub Stats and Language Stats" || echo "No changes to commit"
           git push
