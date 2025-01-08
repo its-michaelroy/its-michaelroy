@@ -38,7 +38,7 @@ jobs:
           # languages_count: 8
 
           # Output file path 
-          output: metrics.svg
+          output: github-metrics.svg
 
           # Optional commit message override
           commit_message: "chore: update metrics.svg"
@@ -48,6 +48,6 @@ jobs:
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
-          git add metrics_renders/github-metrics.svg
+          git add github-metrics.svg
           git commit -m "Update metrics [skip ci]" || echo "No changes to commit"
           git push
