@@ -40,6 +40,21 @@ jobs:
           # Output file path 
           output: github-metrics.svg
 
+          extras_css: |
+            .background {
+              fill: #011627; /* Dark background (nightowl theme) */
+            }
+            .text, .header {
+              fill: #ffffff; /* White text */
+            }
+            .secondary {
+              fill: #7e57c2; /* Accent color similar to nightowl */
+            }
+            .border {
+              stroke: #4c566a; /* Border color */
+            }
+          config_output: auto
+
           # Optional commit message override
           commit_message: "chore: update metrics.svg"
 
