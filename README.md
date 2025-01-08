@@ -52,7 +52,7 @@
       </td>
       <td align="center">
         <h3>CI/CD Tools</h3>
-        <a href="https://www.jenkins.io/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins Icon" /></a>
+        <!-- <a href="https://www.jenkins.io/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins Icon" /></a> -->
         <a href="https://docs.github.com/en/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions Icon" /></a>
       </td>
       <td align="right">
