@@ -228,7 +228,7 @@
   <img width=390 src="lang-stats.svg" alt="Language Stats"/>
   <br/><br/>
   <h3>🧩 Consolidated Metrics</h3>
-<img width=390 src="https://raw.githubusercontent.com/its-michaelroy/its-michaelroy/main/metrics.svg" alt="My GitHub Metrics"/>
+<img width=390 src="https://raw.githubusercontent.com/its-michaelroy/its-michaelroy/main/github-metrics.svg" alt="My GitHub Metrics"/>
 
 </div>
 <br/>
