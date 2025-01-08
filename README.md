@@ -103,7 +103,7 @@
         <h3>Testing & TDD</h3>
         <a href="https://jestjs.io/docs/getting-started" target="_blank"><img src="https://skillicons.dev/icons?i=jest" alt="Jest Icon" /></a>
         <a href="https://www.cypress.io/" target="_blank"><img src="https://skillicons.dev/icons?i=cypress" alt="Cypress Icon" /></a>
-        <a href="https://playwright.dev/" target="_blank"><img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright Icon" style="width: 48px; height: 48px; /></a>
+        <a href="https://playwright.dev/" target="_blank"><img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright Icon" style="width: 48px; height: 48px;" /></a>
         <a href="https://pptr.dev/" target="_blank"><img src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" alt="Puppeteer Icon" style="width: 36px; height: 48px;" /></a>
         <!-- <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon" /></a> -->
         <!-- <a href="https://www.thunderclient.com/" target="_blank"><img src="https://skillicons.dev/icons?i=custom" alt="Thunder Client Icon" /></a> -->
@@ -219,10 +219,17 @@
 <h2 align="center">📊 Stats 📊</h2>
 <br>
 <div align="center">
+  <h3>🔥 GitHub Streak Stats</h3>
   <img width=390 src="https://github-readme-streak-stats-ivory-three.vercel.app?user=its-michaelroy&count_public=true&theme=nightowl&border_radius=10&card_width=400" alt="GitHub Streak Stats"/><br/><br/>
+  <h3>📈 GitHub Overall Stats</h3>
   <img width=390 src="stats.svg" alt="Github Stats"/>
   <br/><br/>
+  <h3>💻 Language Usage</h3>
   <img width=390 src="lang-stats.svg" alt="Language Stats"/>
+  <br/><br/>
+  <h3>🧩 Consolidated Metrics</h3>
+<img width=390 src="https://raw.githubusercontent.com/its-michaelroy/its-michaelroy/main/metrics.svg" alt="My GitHub Metrics"/>
+
 </div>
 <br/>
 

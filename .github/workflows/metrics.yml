@@ -1,0 +1,53 @@
+name: Generate Metrics
+
+on:
+  schedule:
+    # Runs daily at 1:35 AM (UTC)
+    - cron: '35 1 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1) Checkout your repo so we can commit the generated file
+      - uses: actions/checkout@v3
+
+      # 2) Generate the metrics SVG with lowlighter/metrics
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Provide your token that has 'repo' scope to include private repos
+          token: ${{ secrets.README_PT }}
+
+          # GitHub username to fetch data for
+          user: its-michaelroy
+
+          # Basic visual template (other options include 'terminal', 'transparent', etc.)
+          template: classic
+
+          # Show languages plugin with deeper analysis (private + public repos)
+          plugin_languages: yes
+          languages_indepth: yes
+          languages_recent_days: 14
+
+          # If you want more than the default 5 languages, adjust:
+          # plugin_languages: yes
+          # languages_details: bytes-size, percentage
+          # languages_count: 8
+
+          # Output file path 
+          output: metrics.svg
+
+          # Optional commit message override
+          commit_message: "chore: update metrics.svg"
+
+      # 3) Commit the newly generated metrics.svg file back to the repo
+      - name: Commit changes
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add metrics.svg
+          git commit -m "Update metrics [skip ci]" || echo "No changes to commit"
+          git push
