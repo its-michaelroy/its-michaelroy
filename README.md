@@ -1,4 +1,4 @@
-<div align="center" style="border:none;">
+ <div align="center" style="border:none;">
     <a href="https://mrcodewizard.com" target="_blank"><img alt="Guy working in an amazing place!" src="https://raw.github.com/its-michaelroy/its-michaelroy/master/Github_Profile.PNG"></a>
     <br>
     <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=its-michaelroy.its-michaelroy" />
@@ -225,7 +225,7 @@
   <img width=390 src="stats.svg" alt="Github Stats"/>
   <br/><br/>
   <h3>💻 Language Usage</h3>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-michaelroy&layout=donut&langs_count=12&theme=nightowl&border_radius=10&card_width=400&exclude_repo=github-readme-streak-stats" alt="Language Stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-michaelroy&layout=donut&langs_count=10&theme=nightowl&border_radius=10&exclude_repo=github-readme-streak-stats" alt="Language Stats"/>
   <br/><br/>
   <h3>🧩 Consolidated Metrics</h3>
       <table style="border: none; margin: auto;">
