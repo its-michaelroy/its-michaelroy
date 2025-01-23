@@ -225,10 +225,17 @@
   <img width=390 src="stats.svg" alt="Github Stats"/>
   <br/><br/>
   <h3>💻 Language Usage</h3>
-  <img width=390 src="lang-stats.svg" alt="Language Stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-michaelroy&layout=donut&langs_count=12&theme=nightowl&border_radius=10&card_width=400&exclude_repo=github-readme-streak-stats" alt="Language Stats"/>
   <br/><br/>
   <h3>🧩 Consolidated Metrics</h3>
-<img width=390 src="https://raw.githubusercontent.com/its-michaelroy/its-michaelroy/main/github-metrics.svg" alt="My GitHub Metrics" style="border: 2px solid #4c566a; border-radius: 10px; padding: 10px;"/>
+      <table style="border: none; margin: auto;">
+          <tr>
+            <td style="background-color: #2E3440; border: 2px solid #4c566a; border-radius: 10px; padding: 10px;">
+              <img width=390 src="https://raw.githubusercontent.com/its-michaelroy/its-michaelroy/main/github-metrics.svg" alt="My GitHub Metrics"/>
+            </td>
+          </tr>
+      </table>
+<!-- <img width=390 src="https://raw.githubusercontent.com/its-michaelroy/its-michaelroy/main/github-metrics.svg" alt="My GitHub Metrics" style="border: 2px solid #4c566a; border-radius: 10px; padding: 10px;"/> -->
 
 </div>
 <br/>
