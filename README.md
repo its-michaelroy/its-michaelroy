@@ -127,8 +127,8 @@
 <br/>
 <p align="center">
       <a href="https://www.linkedin.com/in/michaelroy91">
-         <img alt="My LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-      <a href="https://mrcodewizard.com/">
+         <img alt="My LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=codementor&logoColor=white"/></a>
+      <a href="https://michaelroy.dev/">
          <img alt="My Portfolio" title="Portfolio Site" src="https://img.shields.io/badge/Portfolio-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/></a>
       <a href="mailto:michael.roy@mrcodewizard.com">
          <img alt="Email" title="Reach out!" src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
@@ -245,10 +245,10 @@
 <div align="center">
 <details>
   <br>
- <summary><h2>🧙‍♂️+☕️ Crafting Code and Cultivating Calmness 🌴+📚</h2></summary>
-  <br>
+ <summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h2 style="margin: 0;">🧙‍♂️+☕️ Crafting Code and Cultivating Calmness 🌴+📚</h2></summary>
   As a dedicated Software Developer and DevOps Engineer, I immerse myself in software development, cloud architecture, and continual learning. My professional journey is driven by a passion for growth, building robust, scalable solutions, and making a meaningful impact with my skillset.
 
   Beyond technology, I find joy in studying languages, reading books, and forming new relationships through learning about other cultures and speaking their languages. I am committed to using my skills to help those in genuine need, believing that technology should enhance lives. Whether it's assisting the handicapped with modified wheelchairs, developing robotic aids to restore independence, or creating innovative educational technologies, I aspire to leverage technology for the betterment of others.
+</details>
 </div>
 <br/>
