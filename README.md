@@ -252,3 +252,19 @@
 </details>
 </div>
 <br/>
+
+<hr/>
+
+<h2 align="center">🏆 View my verified badges 🏆</h2>
+<br/>
+<div align="center">
+ 
+<!--START_SECTION:badges-->
+[![CompTIA Security+ ce](https://images.credly.com/size/110x110/images/446e08ae-bbb5-4648-b85d-24b9a939eb8d/CompTIA_Security_2B.png)](https://www.certmetrics.com/comptia/public/verification.aspx?code=DF36QRLW5YPLV3W3 "CompTIA Security+ ce")
+[![Intro to Malware Analysis and Reverse Engineering](https://images.credly.com/size/110x110/images/6f2d3751-2641-4dfb-985c-826bee08ebf5/image.png)](https://app.cybrary.it/courses/api/certificate/CC-19e4765d-736d-47a2-9982-c5f1c1e773cb/view "Intro to Malware Analysis and Reverse Engineering")
+[<img src="./images/oci23cert.png" width="110" height="110" alt="Oracle Cloud Infrastructure 2023 Certified Foundations Associate" />](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4088F69227FF9A292D409392A092F4FB5EC7FC8940200B9E0D90450C9EDF1406 "Oracle Cloud Infrastructure 2023 Certified Foundations Associate")
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/885576a2-ed74-48c2-9898-7df8cfedbb17 "AWS Certified Cloud Practitioner")
+[![Certified SAFe® 6 Practitioner](https://images.credly.com/size/110x110/images/08703175-4b43-4c72-9075-5c03a9ebe5d0/image.png)](https://www.credly.com/badges/faf1f317-2dc1-4e16-b2e2-9548d7de82eb "Certified SAFe® 6 Practitioner")
+<!--END_SECTION:badges-->
+</div>
+<br/>
