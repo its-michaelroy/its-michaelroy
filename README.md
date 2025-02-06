@@ -26,6 +26,7 @@
       <td align="right">
         <h3 align="center">Frameworks & Libraries</h3>
         <a href="https://react-bootstrap.netlify.app/docs/getting-started/introduction" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap Icon" /></a>
+        <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank"><img src="https://skillicons.dev/icons?i=net" alt=".NET Icon" /></a>
         <a href="https://docs.djangoproject.com/en/5.0/" target="_blank"><img src="https://skillicons.dev/icons?i=django" alt="Django Icon" /></a>
         <!-- <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" alt="Flask Icon" /></a> -->
         <a href="https://vitejs.dev/guide/" target="_blank"><img src="https://skillicons.dev/icons?i=vite" alt="Vite Icon" /></a>
@@ -88,7 +89,7 @@
         <h3 align="center">Databases</h3>
         <a href="https://www.postgresql.org/docs/16/index.html" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL Icon" /></a>
         <!-- <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL Icon" /></a> -->
-        <!-- <a href="https://docs.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB Icon" /></a> -->
+        <a href="https://docs.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB Icon" /></a> 
         <a href="https://firebase.google.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase Icon" /></a>
       </td>
     </tr>
@@ -132,8 +133,10 @@
          <img alt="My Portfolio" title="Portfolio Site" src="https://img.shields.io/badge/Portfolio-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/></a>
       <a href="mailto:michael.roy@mrcodewizard.com">
          <img alt="Email" title="Reach out!" src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
-        <a href="https://buymeacoffee.com/michaelroy">
+      <a href="https://buymeacoffee.com/michaelroy">
         <img alt="Buy Me A Coffee" title="Buy this guy a coffee!" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
+      <a href="https://ko-fi.com/itsmichaelroy">
+        <img alt="I also Like Espresso!" title="I also Like Espresso!" src="https://img.shields.io/badge/Buy_Me_A_Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
    </p>
 <hr/>
 
