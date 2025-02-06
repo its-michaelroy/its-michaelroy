@@ -225,7 +225,7 @@
   <h3>🔥 GitHub Streak Stats</h3>
   <img width=390 src="https://github-readme-streak-stats-ivory-three.vercel.app?user=its-michaelroy&count_public=true&theme=nightowl&border_radius=10&card_width=400" alt="GitHub Streak Stats"/><br/><br/>
   <h3>📈 GitHub Overall Stats</h3>
-  <img width=390 src="stats.svg" alt="Github Stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=its-michaelroy&show_icons=true&theme=nightowl&border_radius=10&card_width=400" alt="Github Stats"/>
   <br/><br/>
   <h3>💻 Language Usage</h3>
   <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-michaelroy&layout=donut&langs_count=10&theme=nightowl&border_radius=10&exclude_repo=github-readme-streak-stats" alt="Language Stats"/>
