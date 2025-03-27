@@ -192,9 +192,9 @@
   <p> </p>
   <p>Web application designed to provide users with educational insights into the potential dangers of asteroid impacts. Built using Python, JavaScript ES6, Django, React and hosted on Render with NASA’s Sentry API.</p>
   <br/>
-  <a href="https://ai-stock-smart-ims.vercel.app/" target="_blank"><img src="https://github.com/its-michaelroy/StockSmart-IMS/blob/main/images/stocksmart.png?raw=true" alt="Inventory list of food items" style="width: 100px; height: 100px;"/></a>
+  <a href="https://github.com/its-michaelroy/StockSmart-IMS/" target="_blank"><img src="https://github.com/its-michaelroy/StockSmart-IMS/blob/main/images/stocksmart.png?raw=true" alt="Inventory list of food items" style="width: 100px; height: 100px;"/></a>
   <h3>Stock Smart Pantry Tracker - Jul 2024</h3>
-  <a href="https://ai-stock-smart-ims.vercel.app/">ai-stock-smart-ims.vercel.app</a>
+  <a href="https://github.com/its-michaelroy/StockSmart-IMS/">github.com/its-michaelroy/StockSmart-IMS/</a>
     <p> </p>
   <p>Project showcases expertise in modern web development frameworks, data management with full CRUD (Create, Read, Update, Delete) capabilities, and user interface design using MUI components.
   Built a real-time pantry tracking application with React, NextJS, MUI, and Firebase.</p>
