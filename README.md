@@ -1,5 +1,5 @@
  <div align="center" style="border:none;">
-    <a href="https://mrcodewizard.com" target="_blank"><img alt="Guy working in an amazing place!" src="https://raw.github.com/its-michaelroy/its-michaelroy/master/Github_Profile.PNG"></a>
+    <a href="https://michaelroy.dev/" target="_blank"><img alt="Guy working in an amazing place!" src="https://raw.github.com/its-michaelroy/its-michaelroy/master/Github_Profile.PNG"></a>
     <br>
     <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=its-michaelroy.its-michaelroy" />
 </div>
@@ -121,7 +121,7 @@
 
   💬 Ask me about **Running servers inside of mountains and teaching funny phrases in Portuguese — I specialize in deep data and even deeper laughs!**
 
-  ⚡ Fun fact: **Managing data centers 300 feet underground — it's like Minecraft, but the stakes are real and the creepers wear suits.**
+  ⚡ Fun fact: **Managing data centers 300 feet underground -- it's like Minecraft, but the stakes are real and the creepers wear suits.**
 
   😎 Current hobbies: **Mastering Portuguese one "obrigado" at a time 🇧🇷, unraveling stories in my ever-growing book stack 📚, and weaving magic in the digital crafting realm 🧙‍♂️+💻**
 </div>
@@ -192,7 +192,7 @@
   <p> </p>
   <p>Web application designed to provide users with educational insights into the potential dangers of asteroid impacts. Built using Python, JavaScript ES6, Django, React and hosted on Render with NASA’s Sentry API.</p>
   <br/>
-  <a href="https://ai-stock-smart-ims.vercel.app/" target="_blank"><img src="https://github.com/its-michaelroy/StockSmart-IMS/blob/main/images/stocksmart.png?raw=true" alt="Jenkins Icon" style="width: 100px; height: 100px;"/></a>
+  <a href="https://ai-stock-smart-ims.vercel.app/" target="_blank"><img src="https://github.com/its-michaelroy/StockSmart-IMS/blob/main/images/stocksmart.png?raw=true" alt="Inventory list of food items" style="width: 100px; height: 100px;"/></a>
   <h3>Stock Smart Pantry Tracker - Jul 2024</h3>
   <a href="https://ai-stock-smart-ims.vercel.app/">ai-stock-smart-ims.vercel.app</a>
     <p> </p>
@@ -204,6 +204,12 @@
   <a href="https://github.com/Headstarters/Flash-card-app">github.com/Headstarters/Flash-card-app</a>
     <p> </p>
   <p>Dynamic AI flashcard application with study mode, allowing users to generate custom decks for efficient learning.Built using Next, React, JavaScript ES6, MUI, Firebase, Clerk, OpenAI, and Stripe API.</p>
+  <br/>
+<a href="https://github.com/its-michaelroy/HamStudyX" target="_blank"><img src="https://github.com/its-michaelroy/HamStudyX/blob/main/Resources/Images/HamStudyX.jpg" alt="Microphone with headset next to icon with HamStudyX" style="width: 100px; height: 100px;"/></a>
+  <h3>HamStudyX - January 2025</h3>
+  <a href="https://github.com/its-michaelroy/HamStudyX">github.com/its-michaelroy/HamStudyX</a>
+    <p> </p>
+  <p>HamStudyX is a cross-platform mobile application designed to help users prepare for ham radio licensing exams. Built using .NET MAUI, it provides a structured way to practice multiple-choice and open-ended questions, track progress, and review quiz history — all within an intuitive interface.</p>
   <br/>
 </div>
 

@@ -9,6 +9,7 @@
 # personal Files
 main.yml
 update-stats.yml
+.idea/
 
 # User-specific files
 *.rsuser
