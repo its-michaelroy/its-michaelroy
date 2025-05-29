@@ -131,7 +131,7 @@
          <img alt="My LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=codementor&logoColor=white"/></a>
       <a href="https://michaelroy.dev/">
          <img alt="My Portfolio" title="Portfolio Site" src="https://img.shields.io/badge/Portfolio-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/></a>
-      <a href="mailto:michael.roy@mrcodewizard.com">
+      <a href="mailto:michael.g.roy@mrcodewizard.com">
          <img alt="Email" title="Reach out!" src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
       <a href="https://buymeacoffee.com/michaelroy">
         <img alt="Buy Me A Coffee" title="Buy this guy a coffee!" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
