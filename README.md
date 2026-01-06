@@ -1,4 +1,4 @@
- <div align="center" style="border:none;">
+<div align="center" style="border:none;">
     <a href="https://michaelroy.dev/" target="_blank"><img alt="Guy working in an amazing place!" src="https://raw.github.com/its-michaelroy/its-michaelroy/master/Github_Profile.PNG"></a>
     <br>
     <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=its-michaelroy.its-michaelroy" />
@@ -89,7 +89,7 @@
         <h3 align="center">Databases</h3>
         <a href="https://www.postgresql.org/docs/16/index.html" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL Icon" /></a>
         <!-- <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL Icon" /></a> -->
-        <a href="https://docs.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB Icon" /></a> 
+        <a href="https://docs.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB Icon" /></a>
         <a href="https://firebase.google.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase Icon" /></a>
       </td>
     </tr>
@@ -106,7 +106,7 @@
         <a href="https://www.cypress.io/" target="_blank"><img src="https://skillicons.dev/icons?i=cypress" alt="Cypress Icon" /></a>
         <a href="https://playwright.dev/" target="_blank"><img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright Icon" style="width: 48px; height: 48px;" /></a>
         <a href="https://pptr.dev/" target="_blank"><img src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" alt="Puppeteer Icon" style="width: 36px; height: 48px;" /></a>
-        <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon" /></a> 
+        <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon" /></a>
         <a href="https://www.thunderclient.com/" target="_blank"><img src="https://skillicons.dev/icons?i=custom" alt="Thunder Client Icon" /></a>
       </td>
     </tr>
@@ -117,13 +117,14 @@
 <div align="center">
     <h2>📜 Short Bio 📜</h2>
 
-  🔭 I'm passionate about leveraging technology to drive innovation in healthcare and fintech. While I've enjoyed working with dynamic languages like Python and JavaScript, I'm increasingly drawn to the stability, performance, and enterprise-level support offered by C#. As a memory-safe language, C# helps prevent common vulnerabilities and ensures the security and reliability of critical applications. I'm focused on mastering C# and related .NET tools to develop robust and scalable solutions that meet the stringent requirements of these industries and looking forward to seeing what is possible in these expanding fields!
+🔭 I'm passionate about leveraging technology to drive innovation in healthcare and fintech. While I've enjoyed working with dynamic languages like Python and JavaScript, I'm increasingly drawn to the stability, performance, and enterprise-level support offered by C#. As a memory-safe language, C# helps prevent common vulnerabilities and ensures the security and reliability of critical applications. I'm focused on mastering C# and related .NET tools to develop robust and scalable solutions that meet the stringent requirements of these industries and looking forward to seeing what is possible in these expanding fields!
 
-  💬 Ask me about **Running servers inside of mountains and teaching funny phrases in Portuguese — I specialize in deep data and even deeper laughs!**
+💬 Ask me about **Running servers inside of mountains and teaching funny phrases in Portuguese — I specialize in deep data and even deeper laughs!**
 
-  ⚡ Fun fact: **Managing data centers 300 feet underground -- it's like Minecraft, but the stakes are real and the creepers wear suits.**
+⚡ Fun fact: **Managing data centers 300 feet underground -- it's like Minecraft, but the stakes are real and the creepers wear suits.**
 
-  😎 Current hobbies: **Mastering Portuguese one "obrigado" at a time 🇧🇷, unraveling stories in my ever-growing book stack 📚, and weaving magic in the digital crafting realm 🧙‍♂️+💻**
+😎 Current hobbies: **Mastering Portuguese one "obrigado" at a time 🇧🇷, unraveling stories in my ever-growing book stack 📚, and weaving magic in the digital crafting realm 🧙‍♂️+💻**
+
 </div>
 <br/>
 <p align="center">
@@ -257,7 +258,8 @@
  <summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h2 style="margin: 0;">🧙‍♂️+☕️ Crafting Code and Cultivating Calmness 🌴+📚</h2></summary>
   As a dedicated Software Developer and DevOps Engineer, I immerse myself in software development, cloud architecture, and continual learning. My professional journey is driven by a passion for growth, building robust, scalable solutions, and making a meaningful impact with my skillset.
 
-  Beyond technology, I find joy in studying languages, reading books, and forming new relationships through learning about other cultures and speaking their languages. I am committed to using my skills to help those in genuine need, believing that technology should enhance lives. Whether it's assisting the handicapped with modified wheelchairs, developing robotic aids to restore independence, or creating innovative educational technologies, I aspire to leverage technology for the betterment of others.
+Beyond technology, I find joy in studying languages, reading books, and forming new relationships through learning about other cultures and speaking their languages. I am committed to using my skills to help those in genuine need, believing that technology should enhance lives. Whether it's assisting the handicapped with modified wheelchairs, developing robotic aids to restore independence, or creating innovative educational technologies, I aspire to leverage technology for the betterment of others.
+
 </details>
 </div>
 <br/>
@@ -267,13 +269,15 @@
 <h2 align="center">🏆 View my verified badges 🏆</h2>
 <br/>
 <div align="center">
- 
+
 <!--START_SECTION:badges-->
-[![CompTIA Security+ ce](https://images.credly.com/size/110x110/images/446e08ae-bbb5-4648-b85d-24b9a939eb8d/CompTIA_Security_2B.png)](https://www.certmetrics.com/comptia/public/verification.aspx?code=DF36QRLW5YPLV3W3 "CompTIA Security+ ce")
-[![Intro to Malware Analysis and Reverse Engineering](https://images.credly.com/size/110x110/images/6f2d3751-2641-4dfb-985c-826bee08ebf5/image.png)](https://app.cybrary.it/courses/api/certificate/CC-19e4765d-736d-47a2-9982-c5f1c1e773cb/view "Intro to Malware Analysis and Reverse Engineering")
-[<img src="./images/oci23cert.png" width="110" height="110" alt="Oracle Cloud Infrastructure 2023 Certified Foundations Associate" />](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4088F69227FF9A292D409392A092F4FB5EC7FC8940200B9E0D90450C9EDF1406 "Oracle Cloud Infrastructure 2023 Certified Foundations Associate")
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/885576a2-ed74-48c2-9898-7df8cfedbb17 "AWS Certified Cloud Practitioner")
-[![Certified SAFe® 6 Practitioner](https://images.credly.com/size/110x110/images/08703175-4b43-4c72-9075-5c03a9ebe5d0/image.png)](https://www.credly.com/badges/faf1f317-2dc1-4e16-b2e2-9548d7de82eb "Certified SAFe® 6 Practitioner")
+
+[<img src="./images/1secplus-optimized.png" width="110" height="110" alt="CompTIA Security+ ce" />](https://www.certmetrics.com/comptia/public/verification.aspx?code=DF36QRLW5YPLV3W3 "CompTIA Security+ ce")
+[<img src="./images/2malanalysis-optimized.png" width="110" height="110" alt="Intro to Malware Analysis and Reverse Engineering" />](https://app.cybrary.it/courses/api/certificate/CC-19e4765d-736d-47a2-9982-c5f1c1e773cb/view "Intro to Malware Analysis and Reverse Engineering")
+[<img src="./images/3OCI23Cert-optimized.png" width="110" height="110" alt="Oracle Cloud Infrastructure 2023 Certified Foundations Associate" />](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4088F69227FF9A292D409392A092F4FB5EC7FC8940200B9E0D90450C9EDF1406 "Oracle Cloud Infrastructure 2023 Certified Foundations Associate")
+[<img src="./images/4awscloud-optimized.png" width="110" height="110" alt="AWS Certified Cloud Practitioner" />](https://www.credly.com/badges/885576a2-ed74-48c2-9898-7df8cfedbb17 "AWS Certified Cloud Practitioner")
+[<img src="./images/5safe6-optimized.png" width="110" height="110" alt="Certified SAFe® 6 Practitioner" />](https://www.credly.com/badges/faf1f317-2dc1-4e16-b2e2-9548d7de82eb "Certified SAFe® 6 Practitioner")
+
 <!--END_SECTION:badges-->
 </div>
 <br/>
