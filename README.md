@@ -274,7 +274,7 @@ Beyond technology, I find joy in studying languages, reading books, and forming 
 
 [<img src="./images/1secplus-optimized.png" width="110" height="110" alt="CompTIA Security+ ce" />](https://www.certmetrics.com/comptia/public/verification.aspx?code=DF36QRLW5YPLV3W3 "CompTIA Security+ ce")
 [<img src="./images/2malanalysis-optimized.png" width="110" height="110" alt="Intro to Malware Analysis and Reverse Engineering" />](https://app.cybrary.it/courses/api/certificate/CC-19e4765d-736d-47a2-9982-c5f1c1e773cb/view "Intro to Malware Analysis and Reverse Engineering")
-[<img src="./images/3OCI23Cert-optimized.png" width="110" height="110" style="vertical-align: middle;" alt="Oracle Cloud Infrastructure 2023 Certified Foundations Associate" />](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4088F69227FF9A292D409392A092F4FB5EC7FC8940200B9E0D90450C9EDF1406 "Oracle Cloud Infrastructure 2023 Certified Foundations Associate")
+[<img src="./images/3oci23cert-optimized.png" width="110" height="110" style="vertical-align: middle;" alt="Oracle Cloud Infrastructure 2023 Certified Foundations Associate" />](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4088F69227FF9A292D409392A092F4FB5EC7FC8940200B9E0D90450C9EDF1406 "Oracle Cloud Infrastructure 2023 Certified Foundations Associate")
 [<img src="./images/4awscloud-optimized.png" width="110" height="110" alt="AWS Certified Cloud Practitioner" />](https://www.credly.com/badges/885576a2-ed74-48c2-9898-7df8cfedbb17 "AWS Certified Cloud Practitioner")
 [<img src="./images/5safe6-optimized.png" width="110" height="110" alt="Certified SAFe® 6 Practitioner" />](https://www.credly.com/badges/faf1f317-2dc1-4e16-b2e2-9548d7de82eb "Certified SAFe® 6 Practitioner")
 
