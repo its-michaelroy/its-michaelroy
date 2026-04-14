@@ -7,18 +7,9 @@
 <h1 align="center" style="border: none;">Hello, my name is Michael Roy!</h1>
 <h1 align="center" style="border: none;">🎖️ Software Engineer | Veteran | Technical Team Lead 🎖️</h1>
 <hr>
-<div align="center">
     <h2>📕 Latest Blog Posts</h2>
-    <!-- BLOG-POST-LIST:START -->
-- [Most of your Claude Code agents don&#39;t need Sonnet](https://dev.to/edwardkubiak/most-of-your-claude-code-agents-dont-need-sonnet-4587)
-- [I spent 6 weeks reading all of the Claude-Code docs. Here is what I built.](https://dev.to/edwardkubiak/i-read-the-claude-code-docs-all-of-them-heres-what-i-built-1p84)
-- [Your Claude Code Batches Don&#39;t Have to Wait for Each Other](https://dev.to/edwardkubiak/git-worktrees-headless-ai-sessions-a-pattern-for-parallel-code-generation-2i5)
-- [I Built a Local Cost Monitor for Claude Code Using Just Bash and SQLite](https://dev.to/edwardkubiak/i-built-a-local-cost-monitor-for-claude-code-using-just-bash-and-sqlite-33ld)
-- [I Built an Observability Dashboard for 17 AI Agents — With Those Same Agents](https://dev.to/edwardkubiak/i-built-an-observability-dashboard-for-17-ai-agents-with-those-same-agents-1l1k)
-- [You&#39;re spending money on Claude Code and have no idea how much](https://dev.to/edwardkubiak/youre-spending-money-on-claude-code-and-have-no-idea-how-much-2d56)
-- [How I built production quality gates into a multi-agent Claude Code workflow](https://dev.to/edwardkubiak/how-i-built-production-quality-gates-into-a-multi-agent-claude-code-workflow-4i55)
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-</div>
 <br>
 
 <h2 align="center">👨‍💻 Skills & Tools 👨‍💻</h2>
