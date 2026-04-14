@@ -18,3 +18,4 @@ jobs:
         with:
           feed_list: "https://dev.to/feed/edwardkubiak"
           max_post_count: 15
+          item_template: "- [$title]($url)"

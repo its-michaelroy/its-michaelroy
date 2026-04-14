@@ -7,7 +7,7 @@
 <h1 align="center" style="border: none;">Hello, my name is Michael Roy!</h1>
 <h1 align="center" style="border: none;">🎖️ Software Engineer | Veteran | Technical Team Lead 🎖️</h1>
 <hr>
-    <h2>📕 Latest Blog Posts</h2>
+    ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Most of your Claude Code agents don&#39;t need Sonnet](https://dev.to/edwardkubiak/most-of-your-claude-code-agents-dont-need-sonnet-4587)
 - [I spent 6 weeks reading all of the Claude-Code docs. Here is what I built.](https://dev.to/edwardkubiak/i-read-the-claude-code-docs-all-of-them-heres-what-i-built-1p84)
