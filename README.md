@@ -7,10 +7,11 @@
 <h1 align="center" style="border: none;">Hello, my name is Michael Roy!</h1>
 <h1 align="center" style="border: none;">🎖️ Software Engineer | Veteran | Technical Team Lead 🎖️</h1>
 <hr>
-    📕 &nbsp;**Latest Blog Posts**
-    # Blog posts
+<div align="center">
+    <h2>📕 Latest Blog Posts</h2>
     <!-- BLOG-POST-LIST:START -->
     <!-- BLOG-POST-LIST:END -->
+</div>
 <br>
 
 <h2 align="center">👨‍💻 Skills & Tools 👨‍💻</h2>
