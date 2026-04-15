@@ -21,7 +21,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <br>
-
+<hr/>
 <h2 align="center">👨‍💻 Skills & Tools 👨‍💻</h2>
 <br/>
 <div align="center">
