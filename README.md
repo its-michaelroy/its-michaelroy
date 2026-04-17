@@ -11,6 +11,7 @@
 <h2 align="center"> 📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Dear Diary, Love Claude Code.](https://dev.to/edwardkubiak/i-gave-claude-space-to-decompress-it-started-thinking-och)
 - [Most of your Claude Code agents don&#39;t need Sonnet](https://dev.to/edwardkubiak/most-of-your-claude-code-agents-dont-need-sonnet-4587)
 - [I spent 6 weeks reading all of the Claude-Code docs. Here is what I built.](https://dev.to/edwardkubiak/i-read-the-claude-code-docs-all-of-them-heres-what-i-built-1p84)
 - [Your Claude Code Batches Don&#39;t Have to Wait for Each Other](https://dev.to/edwardkubiak/git-worktrees-headless-ai-sessions-a-pattern-for-parallel-code-generation-2i5)
