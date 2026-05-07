@@ -11,6 +11,7 @@
 <h2 align="center"> 📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude is blind to time. Here&#39;s the fix Anthropic didn&#39;t ship](https://dev.to/edwardkubiak/claude-is-blind-to-time-heres-the-fix-anthropic-didnt-ship-5eom)
 - [Dear Diary, Love Claude Code.](https://dev.to/edwardkubiak/i-gave-claude-space-to-decompress-it-started-thinking-och)
 - [Most of your Claude Code agents don&#39;t need Sonnet](https://dev.to/edwardkubiak/most-of-your-claude-code-agents-dont-need-sonnet-4587)
 - [I spent 6 weeks reading all of the Claude-Code docs. Here is what I built.](https://dev.to/edwardkubiak/i-read-the-claude-code-docs-all-of-them-heres-what-i-built-1p84)
