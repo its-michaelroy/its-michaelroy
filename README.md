@@ -18,8 +18,6 @@
 - [Your Claude Code Batches Don&#39;t Have to Wait for Each Other](https://dev.to/edwardkubiak/git-worktrees-headless-ai-sessions-a-pattern-for-parallel-code-generation-2i5)
 - [I Built a Local Cost Monitor for Claude Code Using Just Bash and SQLite](https://dev.to/edwardkubiak/i-built-a-local-cost-monitor-for-claude-code-using-just-bash-and-sqlite-33ld)
 - [I Built an Observability Dashboard for 17 AI Agents — With Those Same Agents](https://dev.to/edwardkubiak/i-built-an-observability-dashboard-for-17-ai-agents-with-those-same-agents-1l1k)
-- [You&#39;re spending money on Claude Code and have no idea how much](https://dev.to/edwardkubiak/youre-spending-money-on-claude-code-and-have-no-idea-how-much-2d56)
-- [How I built production quality gates into a multi-agent Claude Code workflow](https://dev.to/edwardkubiak/how-i-built-production-quality-gates-into-a-multi-agent-claude-code-workflow-4i55)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
