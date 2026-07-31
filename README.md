@@ -11,13 +11,10 @@
 <h2 align="center"> 📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude is blind to time. Here&#39;s the fix Anthropic didn&#39;t ship](https://dev.to/edwardkubiak/claude-is-blind-to-time-heres-the-fix-anthropic-didnt-ship-5eom)
-- [Dear Diary, Love Claude Code.](https://dev.to/edwardkubiak/i-gave-claude-space-to-decompress-it-started-thinking-och)
-- [Most of your Claude Code agents don&#39;t need Sonnet](https://dev.to/edwardkubiak/most-of-your-claude-code-agents-dont-need-sonnet-4587)
-- [I spent 6 weeks reading all of the Claude-Code docs. Here is what I built.](https://dev.to/edwardkubiak/i-read-the-claude-code-docs-all-of-them-heres-what-i-built-1p84)
-- [Your Claude Code Batches Don&#39;t Have to Wait for Each Other](https://dev.to/edwardkubiak/git-worktrees-headless-ai-sessions-a-pattern-for-parallel-code-generation-2i5)
-- [I Built a Local Cost Monitor for Claude Code Using Just Bash and SQLite](https://dev.to/edwardkubiak/i-built-a-local-cost-monitor-for-claude-code-using-just-bash-and-sqlite-33ld)
-- [I Built an Observability Dashboard for 17 AI Agents — With Those Same Agents](https://dev.to/edwardkubiak/i-built-an-observability-dashboard-for-17-ai-agents-with-those-same-agents-1l1k)
+- [I gave Claude Code 24 specialist roles, then used them to rebuild my own agency](https://dev.to/creative_brain_inc/i-gave-claude-code-24-specialist-roles-then-used-them-to-rebuild-my-own-agency-20f1)
+- [I built a local-first dashboard for everything Claude Code does on my machine](https://dev.to/creative_brain_inc/i-built-a-local-first-dashboard-for-everything-claude-code-does-on-my-machine-133g)
+- [I gave Claude Code 16 specialist roles. Now I ship full-stack features before lunch.](https://dev.to/creative_brain_inc/i-gave-claude-code-16-specialist-roles-now-i-ship-full-stack-features-before-lunch-4l50)
+- [Free Developer Tools: How I Built a Complete Toolkit for the Community](https://dev.to/creative_brain_inc/free-developer-tools-how-i-built-a-complete-toolkit-for-the-community-3b2b)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
