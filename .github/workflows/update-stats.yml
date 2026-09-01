@@ -22,7 +22,9 @@ jobs:
           # Compatible with the original github-readme-stats query params
           options: 'username=${{ github.repository_owner }}&show_icons=true&theme=nightowl&border_radius=10'
           path: stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # Use a PAT with read:user and read:org scopes if GitHub API returns
+          # "Resource not accessible by integration" during generation.
+          token: ${{ secrets.README_STATS_TOKEN != '' && secrets.README_STATS_TOKEN || github.token }}
 
       - name: Generate top languages card
         uses: soulteary/github-readme-stats-action@v1.0.0
@@ -30,7 +32,7 @@ jobs:
           card: top-langs
           options: 'username=${{ github.repository_owner }}&layout=donut&langs_count=10&theme=nightowl'
           path: lang-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.README_STATS_TOKEN != '' && secrets.README_STATS_TOKEN || github.token }}
 
       - name: Commit cards
         run: |
