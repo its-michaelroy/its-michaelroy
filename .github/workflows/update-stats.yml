@@ -30,7 +30,7 @@ jobs:
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
           card: top-langs
-          options: 'username=${{ github.repository_owner }}&layout=donut&langs_count=10&theme=nightowl'
+          options: 'username=${{ github.repository_owner }}&layout=donut&langs_count=10&theme=nightowl&hide=html'
           path: lang-stats.svg
           token: ${{ secrets.README_STATS_TOKEN != '' && secrets.README_STATS_TOKEN || github.token }}
 

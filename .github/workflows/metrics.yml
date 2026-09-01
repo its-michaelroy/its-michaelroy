@@ -32,14 +32,14 @@ jobs:
           # Show languages plugin with deeper analysis (private + public repos)
           plugin_languages: yes
           languages_indepth: yes
-          languages_recent_days: 14
+          languages_recent_days: 365
 
           # If you want more than the default 5 languages, adjust:
           # plugin_languages: yes
           # languages_details: bytes-size, percentage
           # languages_count: 8
 
-          # Output file path 
+          # Output file path
           output: github-metrics.svg
 
           extras_css: |
@@ -62,7 +62,7 @@ jobs:
       # 3) Pull latest changes to avoid conflicts
       - name: Pull latest changes
         run: git pull --rebase origin main
-        
+
       # 4) Commit the newly generated metrics.svg file back to the repo
       - name: Commit changes
         run: |
