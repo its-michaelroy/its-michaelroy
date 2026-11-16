@@ -1,23 +1,25 @@
 name: Latest blog post workflow
+
 on:
-  schedule: # Run workflow automatically
+  schedule:
     - cron: "0 0 * * *" # Runs once a day at 00:00 UTC
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called)
+  workflow_dispatch: # Lets you run it manually from the Actions tab
+
 permissions:
-  contents: write # To write the generated contents to the readme
+  contents: write # Needed to update the README
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Pull in dev.to posts
+
+      - name: Pull in michaelroy.dev posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://michaelaroy.substack.com/feed"
+          feed_list: "https://michaelroy.dev/posts/index.xml"
           max_post_count: 5
           template: "- [$title]($url)$newline"
-          user_agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
           retry_count: 3
