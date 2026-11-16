@@ -12,8 +12,8 @@
 
 <p align="center">
     
-<!-- BLOG-POST-LIST:START -->- [My Post](https://michaelroy.dev/posts/my-post/)
-- [Hello World](https://michaelroy.dev/posts/hello-world/)
+<!-- BLOG-POST-LIST:START --><a href="https://michaelroy.dev/posts/my-post/">My Post</a><br/>
+<a href="https://michaelroy.dev/posts/hello-world/">Hello World</a><br/>
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
