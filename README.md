@@ -10,11 +10,8 @@
 
 <h2 align="center"> 📕 Latest Blog Posts</h2>
 
-<!-- BLOG-POST-LIST:START -->
-- [I gave Claude Code 24 specialist roles, then used them to rebuild my own agency](https://dev.to/creative_brain_inc/i-gave-claude-code-24-specialist-roles-then-used-them-to-rebuild-my-own-agency-20f1)
-- [I built a local-first dashboard for everything Claude Code does on my machine](https://dev.to/creative_brain_inc/i-built-a-local-first-dashboard-for-everything-claude-code-does-on-my-machine-133g)
-- [I gave Claude Code 16 specialist roles. Now I ship full-stack features before lunch.](https://dev.to/creative_brain_inc/i-gave-claude-code-16-specialist-roles-now-i-ship-full-stack-features-before-lunch-4l50)
-- [Free Developer Tools: How I Built a Complete Toolkit for the Community](https://dev.to/creative_brain_inc/free-developer-tools-how-i-built-a-complete-toolkit-for-the-community-3b2b)
+<!-- BLOG-POST-LIST:START -->- [My Post](https://michaelroy.dev/posts/my-post/)
+- [Hello World](https://michaelroy.dev/posts/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
