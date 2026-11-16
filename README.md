@@ -10,15 +10,17 @@
 
 <h2 align="center"> 📕 Latest Blog Posts</h2>
 
-<div align="center">
+<p align="center">
     
 <!-- BLOG-POST-LIST:START -->- [My Post](https://michaelroy.dev/posts/my-post/)
 - [Hello World](https://michaelroy.dev/posts/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [Read more on michaelroy.dev](https://michaelroy.dev/posts/) · 📰 [Also on Substack](https://michaelaroy.substack.com)
-
-</div>
+<br/>
+➡️ <a href="https://michaelroy.dev/posts/">Read more on michaelroy.dev</a>
+<br/>
+📰 <a href="https://michaelaroy.substack.com">Also on Substack</a>
+</p>
 <br>
 <hr/>
 <h2 align="center">👨‍💻 Skills & Tools 👨‍💻</h2>
