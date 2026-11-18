@@ -1,294 +1,170 @@
-<div align="center" style="border:none;">
-    <a href="https://michaelroy.dev/" target="_blank"><img alt="Guy working in an amazing place!" src="https://raw.github.com/its-michaelroy/its-michaelroy/master/Github_Profile.PNG"></a>
-    <br>
-    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=its-michaelroy.its-michaelroy" />
-</div>
-
-<h1 align="center" style="border: none;">Hello, my name is Michael Roy!</h1>
-<h1 align="center" style="border: none;">🎖️ Software Engineer | Veteran | Technical Team Lead 🎖️</h1>
-<hr>
-
-<h2 align="center"> 📕 Latest Blog Posts</h2>
-
-<!-- BLOG-POST-LIST:START -->
-- [I gave Claude Code 24 specialist roles, then used them to rebuild my own agency](https://dev.to/creative_brain_inc/i-gave-claude-code-24-specialist-roles-then-used-them-to-rebuild-my-own-agency-20f1)
-- [I built a local-first dashboard for everything Claude Code does on my machine](https://dev.to/creative_brain_inc/i-built-a-local-first-dashboard-for-everything-claude-code-does-on-my-machine-133g)
-- [I gave Claude Code 16 specialist roles. Now I ship full-stack features before lunch.](https://dev.to/creative_brain_inc/i-gave-claude-code-16-specialist-roles-now-i-ship-full-stack-features-before-lunch-4l50)
-- [Free Developer Tools: How I Built a Complete Toolkit for the Community](https://dev.to/creative_brain_inc/free-developer-tools-how-i-built-a-complete-toolkit-for-the-community-3b2b)
-<!-- BLOG-POST-LIST:END -->
-
-<br>
-<hr/>
-<h2 align="center">👨‍💻 Skills & Tools 👨‍💻</h2>
-<br/>
-<div align="center">
-  <table>
-    <tr>
-      <td align="left" style="border: none;">
-        <h3 align="center">Languages</h3>
-        <a href="https://www.python.org/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python Icon" /></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript Icon" /></a>
-        <!-- <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript Icon" /></a> -->
-        <!-- <a href="https://go.dev/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=go" alt="Go Icon" /></a> -->
-        <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" alt="C# Icon" /></a>
-        <a href="https://nodejs.org/docs/latest/api/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js Icon" /></a>
-      </td>
-      <td align="right">
-        <h3 align="center">Frameworks & Libraries</h3>
-        <a href="https://react-bootstrap.netlify.app/docs/getting-started/introduction" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap Icon" /></a>
-        <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank"><img src="https://skillicons.dev/icons?i=net" alt=".NET Icon" /></a>
-        <a href="https://docs.djangoproject.com/en/5.0/" target="_blank"><img src="https://skillicons.dev/icons?i=django" alt="Django Icon" /></a>
-        <!-- <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" alt="Flask Icon" /></a> -->
-        <a href="https://vitejs.dev/guide/" target="_blank"><img src="https://skillicons.dev/icons?i=vite" alt="Vite Icon" /></a>
-        <a href="https://react.dev/learn" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React Icon" /></a>
-        <!-- <a href="https://docs.cypress.io/guides/component-testing/react/overview" target="_blank"><img src="https://skillicons.dev/icons?i=cypress" alt="Cypress Icon" /></a> -->
-        <a href="https://nextjs.org/docs" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js Icon" /></a>
-        <a href="https://mui.com/getting-started/usage/" target="_blank"><img src="https://skillicons.dev/icons?i=materialui" alt="Material UI Icon" /></a>
-      </td>
-    </tr>
-  </table>
-</div>
-<br/>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="left">
-        <h3 align="center">Cloud & DevOps</h3>
-        <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS Icon" /></a>
-        <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub Icon" /></a>
-        <a href="https://git-scm.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git Icon" /></a>
-        <a href="https://www.linux.org/forums/#linux-tutorials.122" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux Icon" /></a>
-        <!-- <a href="https://vercel.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel Icon" /></a> -->
-      </td>
-      <td align="center">
-        <h3>CI/CD Tools</h3>
-        <!-- <a href="https://www.jenkins.io/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins Icon" /></a> -->
-        <a href="https://docs.github.com/en/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions Icon" /></a>
-      </td>
-      <td align="right">
-          <div align="center">
-        <h3>Containerization</h3>
-        <a href="https://docs.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker Icon" /></a>
-        <!-- <a href="https://kubernetes.io/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes Icon" /></a> -->
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-<br/>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="left">
-          <div align="center">
-        <h3>Automation</h3>
-        <!-- <a href="https://docs.ansible.com/ansible/latest/index.html" target="_blank"><img src="https://skillicons.dev/icons?i=ansible" alt="Ansible Icon" /></a> -->
-        <a href="https://www.terraform.io/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform Icon" /></a>
-          </div>
-      </td>
-      <!-- <td align="center">
-          <div align="center">
-        <h3>Currently Learning: Monitoring & Logging</h3>
-        <a href="https://prometheus.io/docs/introduction/overview/" target="_blank"><img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus Icon" /></a>
-        <a href="https://grafana.com/docs/grafana/latest/getting-started/introduction/" target="_blank"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana Icon" /></a>
-          </div>
-      </td>-->
-      <td align="right">
-        <h3 align="center">Databases</h3>
-        <a href="https://www.postgresql.org/docs/16/index.html" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL Icon" /></a>
-        <!-- <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL Icon" /></a> -->
-        <a href="https://docs.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB Icon" /></a>
-        <a href="https://firebase.google.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase Icon" /></a>
-      </td>
-    </tr>
-  </table>
-</div>
-<br/>
-
-<!-- <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h3>Testing & TDD</h3>
-        <a href="https://jestjs.io/docs/getting-started" target="_blank"><img src="https://skillicons.dev/icons?i=jest" alt="Jest Icon" /></a>
-        <a href="https://www.cypress.io/" target="_blank"><img src="https://skillicons.dev/icons?i=cypress" alt="Cypress Icon" /></a>
-        <a href="https://playwright.dev/" target="_blank"><img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright Icon" style="width: 48px; height: 48px;" /></a>
-        <a href="https://pptr.dev/" target="_blank"><img src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" alt="Puppeteer Icon" style="width: 36px; height: 48px;" /></a>
-        <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon" /></a>
-        <a href="https://www.thunderclient.com/" target="_blank"><img src="https://skillicons.dev/icons?i=custom" alt="Thunder Client Icon" /></a>
-      </td>
-    </tr>
-  </table>
-</div> -->
-<hr/>
-
-<div align="center">
-    <h2>📜 Short Bio 📜</h2>
-
-🔭 I'm passionate about leveraging technology to drive innovation in healthcare and fintech. While I've enjoyed working with dynamic languages like Python and JavaScript, I'm increasingly drawn to the stability, performance, and enterprise-level support offered by C#. As a memory-safe language, C# helps prevent common vulnerabilities and ensures the security and reliability of critical applications. I'm focused on mastering C# and related .NET tools to develop robust and scalable solutions that meet the stringent requirements of these industries and looking forward to seeing what is possible in these expanding fields!
-
-💬 Ask me about **Running servers inside of mountains and teaching funny phrases in Portuguese — I specialize in deep data and even deeper laughs!**
-
-⚡ Fun fact: **Managing data centers 300 feet underground -- it's like Minecraft, but the stakes are real and the creepers wear suits.**
-
-😎 Current hobbies: **Mastering Portuguese one "obrigado" at a time 🇧🇷, unraveling stories in my ever-growing book stack 📚, and weaving magic in the digital crafting realm 🧙‍♂️+💻**
-
-</div>
-<br/>
-<p align="center">
-      <a href="https://www.linkedin.com/in/michaelroy91">
-         <img alt="My LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=codementor&logoColor=white"/></a>
-      <a href="https://michaelroy.dev/">
-         <img alt="My Portfolio" title="Portfolio Site" src="https://img.shields.io/badge/Portfolio-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/></a>
-      <a href="https://michaelaroy.substack.com/"><img alt="My Weekly Blog" title="Substack" src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/></a>
-      <a href="mailto:michael.g.roy@mrcodewizard.com">
-         <img alt="Email" title="Reach out!" src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
-      <a href="https://buymeacoffee.com/michaelroy">
-        <img alt="Buy Me A Coffee" title="Buy this guy a coffee!" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
-      <a href="https://ko-fi.com/itsmichaelroy">
-        <img alt="I also Like Espresso!" title="I also Like Espresso!" src="https://img.shields.io/badge/Buy_Me_A_Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
-   </p>
-<hr/>
-
 <!--
-<h2 align="center">🔭 I’m currently working on 🔭</h2>
-<br/>
-
-<div align="left">
-  - 🛠️ **DevOps**:
-    - AWS Network Architecture Design
-    - Cloud Engineering
-    - [AWS Network Diagram 🎨 (Created by Michael Roy)](https://michael.github..io/animated-diagram)
-    - Focusing on building robust and secure VPCs with public and private subnets, NACLs, and Security Groups.
-    - Deploying EC2 instances across multiple Availability Zones for high availability and fault tolerance.
-    - Setting up NAT Gateways for outbound traffic from private instances.
-    - Implementing Route 53 for DNS management.
-    - Using AWS CloudWatch for monitoring and logging.
-    - Adhering to AWS Well-Architected Framework best practices.
-  - 💻 **Software Development**:
-    - Hybrid Real Estate Property Tracker & Analyzer/Fitness-game mobile app
-    - Workplace automation within the logistics and education sectors. I love YAML!
-
-  <!--
-</div> -->
-<!--Add Projects & Education Sections Here-->
-<h2 align="center">🏆 Achievements 🏆</h2>
-<br>
-<div align="center">
-  <ul>
-    <li>🏅 Team Lima - 1st Place Hackathon Winners (2024) with the project "<a href="#deep-impact">Deep Impact</a>"</li>
-  </ul>
-</div>
-<br/>
-
-<h2 align="center">📚 Projects 📚</h2>
-<br>
-<div align="left">
-  <a href="https://github.com/its-michaelroy/ValidationStation" target="_blank"><img src="https://michaelroy.dev/images/validation.png" alt="Validation Station" style="width: 100px; height: 100px;"/></a>
-  <h3>Validation Station - Mar 2024</h3>
-  <a href="https://github.com/its-michaelroy/ValidationStation">github.com/its-michaelroy/ValidationStation</a>
-    <p> </p>
-  <p>Application created for businesses as a way to create a database of valid contact information and for individual use as a way to avoid spam via email and phone calls. Future use will include a way to import and export csv data for blacklist and whitelist. Built using Python, JavaScript ES6, Django, React, and a PostgreSQL database for storing user Login, Email, and Phone information. Utilizes API for email and phone number validation from Big Data Cloud.</p>
-  <br/>
-  <a href="https://github.com/L-Carr/Platoon-Console" target="_blank"><img src="https://michaelroy.dev/images/platoon-console-v3.svg" alt="Platoon Console" style="width: 100px; height: 100px;"/></a>
-  <h3>Platoon Console - Apr 2024</h3>
-  <a href="https://github.com/L-Carr/Platoon-Console">github.com/L-Carr/Platoon.Console</a>
-    <p> </p>
-  <p>Web application dashboard for managing Code Platoon cohorts, offering centralized access to course materials. Built using Python, JavaScript ES6, Django, React, and a PostgreSQL database with Google API.</p>
-  <br/>
-  <a href="https://deep-impact.onrender.com/" target="_blank"><img src="https://michaelroy.dev/images/DeepImpact.jpeg" alt="Earth Comet!" style="width: 100px; height: 100px;"/></a>
-  <h3 id="deep-impact">Deep Impact - May 2024</h3>
-  <a href="https://deep-impact.onrender.com/">deep-impact.onrender.com/</a>
-  <p> </p>
-  <p>Web application designed to provide users with educational insights into the potential dangers of asteroid impacts. Built using Python, JavaScript ES6, Django, React and hosted on Render with NASA’s Sentry API.</p>
-  <br/>
-  <a href="https://github.com/its-michaelroy/StockSmart-IMS/" target="_blank"><img src="https://github.com/its-michaelroy/StockSmart-IMS/blob/main/images/stocksmart.png?raw=true" alt="Inventory list of food items" style="width: 100px; height: 100px;"/></a>
-  <h3>Stock Smart Pantry Tracker - Jul 2024</h3>
-  <a href="https://github.com/its-michaelroy/StockSmart-IMS/">github.com/its-michaelroy/StockSmart-IMS/</a>
-    <p> </p>
-  <p>Project showcases expertise in modern web development frameworks, data management with full CRUD (Create, Read, Update, Delete) capabilities, and user interface design using MUI components.
-  Built a real-time pantry tracking application with React, NextJS, MUI, and Firebase.</p>
-  <br/>
-  <a href="https://github.com/Headstarters/Flash-card-app" target="_blank"><img src="https://github.com/user-attachments/assets/314791b6-8be6-4ef8-b01a-08147063f451" alt="Flash Card Black and blue background" style="width: 100px; height: 100px;"/></a>
-  <h3>FlashAce AI - Aug 2024</h3>
-  <a href="https://github.com/Headstarters/Flash-card-app">github.com/Headstarters/Flash-card-app</a>
-    <p> </p>
-  <p>Dynamic AI flashcard application with study mode, allowing users to generate custom decks for efficient learning.Built using Next, React, JavaScript ES6, MUI, Firebase, Clerk, OpenAI, and Stripe API.</p>
-  <br/>
-<a href="https://github.com/its-michaelroy/HamStudyX" target="_blank"><img src="https://github.com/its-michaelroy/HamStudyX/blob/main/Resources/Images/HamStudyX.jpg" alt="Microphone with headset next to icon with HamStudyX" style="width: 100px; height: 100px;"/></a>
-  <h3>HamStudyX - January 2025</h3>
-  <a href="https://github.com/its-michaelroy/HamStudyX">github.com/its-michaelroy/HamStudyX</a>
-    <p> </p>
-  <p>HamStudyX is a cross-platform mobile application designed to help users prepare for ham radio licensing exams. Built using .NET MAUI, it provides a structured way to practice multiple-choice and open-ended questions, track progress, and review quiz history — all within an intuitive interface.</p>
-  <br/>
-</div>
-
-<br/>
-<!-->
-<hr/>
-<br><!--
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/its-michaelroy/its-michaelroy/output/github-contribution-grid-snake.svg" />
-  <br/>
-</div>
+  Profile README rewrite for DevOps, Platform and Kubernetes roles.
+  Rules used here: no emoji, no div elements, blog section in one <p align="center"> with no blank lines inside it.
+  Anything marked TODO is not true yet. Remove the comment wrapper only when it is true.
+  OPSEC: no IPs, hostnames, ports, versions or which services face the internet.
 -->
 
-<h2 align="center">📊 Stats 📊</h2>
-<br>
-<div align="center">
-  <h3>🔥 GitHub Streak Stats</h3>
-  <img width=390 src="https://github-readme-streak-stats-ivory-three.vercel.app?user=its-michaelroy&count_public=true&theme=nightowl&border_radius=10&card_width=400" alt="GitHub Streak Stats"/><br/><br/>
-  <h3>📈 GitHub Overall Stats</h3>
-  <img width=390 src="./stats.svg" alt="Github Stats"/>
-  <br/><br/>
-  <h3>💻 Language Usage</h3>
-  <img width=390 src="./lang-stats.svg" alt="Language Stats"/>
-  <br/><br/>
-  <h3>🧩 Consolidated Metrics</h3>
-      <table style="border: none; margin: auto;">
-          <tr>
-            <td style="background-color: #2E3440; border: 2px solid #4c566a; border-radius: 10px; padding: 10px;">
-              <img width=390 src="https://raw.githubusercontent.com/its-michaelroy/its-michaelroy/main/github-metrics.svg" alt="My GitHub Metrics"/>
-            </td>
-          </tr>
-      </table>
-<!-- <img width=390 src="https://raw.githubusercontent.com/its-michaelroy/its-michaelroy/main/github-metrics.svg" alt="My GitHub Metrics" style="border: 2px solid #4c566a; border-radius: 10px; padding: 10px;"/> -->
+<h1 align="center">Michael Roy</h1>
 
-</div>
-<br/>
-
-<hr/>
-
-<div align="center">
-<details>
+<p align="center">
+  <strong>DevOps Engineer | Built and operate a 6 node HA k3s cluster on bare metal | Kubernetes, Linux, Docker, AWS</strong>
   <br>
- <summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h2 style="margin: 0;">🧙‍♂️+☕️ Crafting Code and Cultivating Calmness 🌴+📚</h2></summary>
-  As a dedicated Software Developer and DevOps Engineer, I immerse myself in software development, cloud architecture, and continual learning. My professional journey is driven by a passion for growth, building robust, scalable solutions, and making a meaningful impact with my skillset.
+  Army veteran. 10+ years in IT operations. CompTIA Security+ and AWS Certified Cloud Practitioner. CKAD in progress.
+</p>
 
-Beyond technology, I find joy in studying languages, reading books, and forming new relationships through learning about other cultures and speaking their languages. I am committed to using my skills to help those in genuine need, believing that technology should enhance lives. Whether it's assisting the handicapped with modified wheelchairs, developing robotic aids to restore independence, or creating innovative educational technologies, I aspire to leverage technology for the betterment of others.
+<!-- TODO when Flux, Traefik and Prometheus are live, change the line above to
+  DevOps Engineer | Built and operate a 6 node HA k3s cluster on bare metal | Kubernetes, GitOps with Flux, Linux, AWS -->
 
-</details>
-</div>
-<br/>
+<p align="center">
+  <a href="https://michaelroy.dev/">Independent Infrastructure Labs (michaelroy.dev)</a>
+  |
+  <a href="https://www.linkedin.com/in/michaelroy91">LinkedIn</a>
+  |
+  <a href="https://michaelaroy.substack.com/">Substack</a>
+  |
+  <a href="mailto:michael@michaelroy.dev">michael@michaelroy.dev</a>
+</p>
 
-<hr/>
+<hr>
 
-<h2 align="center">🏆 View my verified badges 🏆</h2>
-<br/>
-<div align="center">
+<h2 align="center">About</h2>
 
+<p align="center">
+  I run infrastructure for a living and for fun. I spent 10+ years operating and maintaining mission-critical systems in the Army and in IT operations,
+  then moved into DevOps through the Code Platoon DevOps program, and I am a current KubeCraft student.
+  <br><br>
+  Today I build and operate a 6 node highly available k3s cluster (3 control plane and 3 worker nodes) on bare metal at home,
+  and a hardened Debian VPS that runs my own self-hosted services with SSH reachable only over Tailscale and DNS on Cloudflare.
+  I write up what I learn on my blog, with sensitive details left out on purpose.
+</p>
+
+<h2 align="center">What I am working on</h2>
+
+<p align="center">
+  Homelab platform on k3s, with GitOps for the services I run.
+  <br>
+  Planned workloads are Mealie, Linkding, Wallabag, Radicale and LibreTranslate.
+  <br>
+  Studying for the Certified Kubernetes Application Developer (CKAD) exam.
+</p>
+
+<!-- TODO when live, add one line per item and link the write-up
+  GitOps with Flux
+  Ingress with Traefik
+  Monitoring with Prometheus and Grafana
+-->
+
+<h2 align="center">Latest writing</h2>
+
+<p align="center">
+<!-- BLOG-POST-LIST:START --><a href="https://michaelroy.dev/posts/">Read the blog on michaelroy.dev</a><br/>
+<!-- BLOG-POST-LIST:END -->
+<a href="https://michaelroy.dev/posts/">All posts</a> | <a href="https://michaelaroy.substack.com/">Substack</a>
+</p>
+
+<h2 align="center">Skills and tools</h2>
+
+<p align="center">
+  <strong>Platform and infrastructure</strong>
+  <br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kubernetes,linux,debian,docker,aws,cloudflare" alt="Kubernetes, Linux, Debian, Docker, AWS, Cloudflare"></a>
+  <br>
+  <sub>k3s, Tailscale, Coolify, Traefik (VPS)</sub>
+</p>
+
+<p align="center">
+  <strong>Automation and CI/CD</strong>
+  <br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bash,python,git,github,githubactions" alt="Bash, Python, Git, GitHub, GitHub Actions"></a>
+</p>
+
+<!-- TODO add only when true
+  Terraform, Ansible (automation)
+  Prometheus, Grafana (monitoring)
+  Flux (GitOps)
+  e.g. https://skillicons.dev/icons?i=terraform,ansible,prometheus,grafana
+-->
+
+<p align="center">
+  <strong>Also used</strong>
+  <br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,cs,postgres,react" alt="JavaScript, C#, PostgreSQL, React"></a>
+</p>
+
+<h2 align="center">Projects</h2>
+
+<p align="center">
+  <strong>Homelab k3s cluster</strong>
+  <br>
+  6 node HA k3s cluster on bare metal with 3 control plane and 3 worker nodes.
+  <br>
+  <!-- TODO link when the homelab repo is public and has passed a gitleaks scan
+  <a href="https://github.com/its-michaelroy/REPO-NAME">Architecture notes and manifests</a>
+  -->
+  <em>Repository coming soon.</em>
+</p>
+
+<p align="center">
+  <strong><a href="https://github.com/its-michaelroy/twoge_demo">twoge_demo</a></strong>
+  <br>
+  Hosted the Twoge application on AWS infrastructure as a DevOps program assessment.
+</p>
+
+<p align="center">
+  <strong><a href="https://github.com/its-michaelroy/ResumeGenerator">ResumeGenerator</a></strong>
+  <br>
+  Resume PDF generator written in C# with QuestPDF.
+</p>
+
+<p align="center">
+  <strong><a href="https://github.com/its-michaelroy/HamStudyX">HamStudyX</a></strong>
+  <br>
+  Cross-platform study app for ham radio license exams, built with .NET MAUI.
+</p>
+
+<p align="center">
+  <strong><a href="https://github.com/its-michaelroy/StockSmart-IMS">StockSmart IMS</a></strong>
+  <br>
+  Pantry inventory app with full CRUD, built with React, Next.js, MUI and Firebase.
+</p>
+
+<!-- Optional TODO, one security practice repo with sanitized hardening notes or scripts. Use example.com placeholders and no real configs. -->
+
+<h2 align="center">Background</h2>
+
+<p align="center">
+  U.S. Army veteran who operated and maintained mission-critical systems in hardened, secure military facilities.
+  <br>
+  Graduate of Code Platoon (DevOps) and the Microsoft Software and Systems Academy (MSSA).
+  <br>
+  Current student at KubeCraft.
+  <br>
+  1st place hackathon team in 2024 with the project Deep Impact.
+</p>
+
+<!-- TODO confirm the military facility wording against your own non-disclosure obligations before publishing. -->
+<!-- TODO confirm the hackathon line. Remove it if you would rather not list it. -->
+
+<h2 align="center">Certifications</h2>
+
+<p align="center">
 <!--START_SECTION:badges-->
-
-[<img src="./images/1secplus-optimized.png" width="110" height="110" alt="CompTIA Security+ ce" />](https://www.certmetrics.com/comptia/public/verification.aspx?code=DF36QRLW5YPLV3W3 "CompTIA Security+ ce")
-[<img src="./images/2malanalysis-optimized.png" width="110" height="110" alt="Intro to Malware Analysis and Reverse Engineering" />](https://app.cybrary.it/courses/api/certificate/CC-19e4765d-736d-47a2-9982-c5f1c1e773cb/view "Intro to Malware Analysis and Reverse Engineering")
-[<img src="./images/3oci23cert-optimized.png" width="110" height="110" style="vertical-align: middle;" alt="Oracle Cloud Infrastructure 2023 Certified Foundations Associate" />](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4088F69227FF9A292D409392A092F4FB5EC7FC8940200B9E0D90450C9EDF1406 "Oracle Cloud Infrastructure 2023 Certified Foundations Associate")
-[<img src="./images/4awscloud-optimized.png" width="110" height="110" alt="AWS Certified Cloud Practitioner" />](https://www.credly.com/badges/885576a2-ed74-48c2-9898-7df8cfedbb17 "AWS Certified Cloud Practitioner")
-[<img src="./images/5safe6-optimized.png" width="110" height="110" alt="Certified SAFe® 6 Practitioner" />](https://www.credly.com/badges/faf1f317-2dc1-4e16-b2e2-9548d7de82eb "Certified SAFe® 6 Practitioner")
-
+<a href="https://www.certmetrics.com/comptia/public/verification.aspx?code=DF36QRLW5YPLV3W3" title="CompTIA Security+ ce"><img src="./images/1secplus-optimized.png" width="110" height="110" alt="CompTIA Security+ ce" /></a>
+<a href="https://www.credly.com/badges/885576a2-ed74-48c2-9898-7df8cfedbb17" title="AWS Certified Cloud Practitioner"><img src="./images/4awscloud-optimized.png" width="110" height="110" alt="AWS Certified Cloud Practitioner" /></a>
+<a href="https://app.cybrary.it/courses/api/certificate/CC-19e4765d-736d-47a2-9982-c5f1c1e773cb/view" title="Intro to Malware Analysis and Reverse Engineering"><img src="./images/2malanalysis-optimized.png" width="110" height="110" alt="Intro to Malware Analysis and Reverse Engineering" /></a>
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=4088F69227FF9A292D409392A092F4FB5EC7FC8940200B9E0D90450C9EDF1406" title="Oracle Cloud Infrastructure 2023 Certified Foundations Associate"><img src="./images/3oci23cert-optimized.png" width="110" height="110" alt="Oracle Cloud Infrastructure 2023 Certified Foundations Associate" /></a>
+<a href="https://www.credly.com/badges/faf1f317-2dc1-4e16-b2e2-9548d7de82eb" title="Certified SAFe 6 Practitioner"><img src="./images/5safe6-optimized.png" width="110" height="110" alt="Certified SAFe 6 Practitioner" /></a>
 <!--END_SECTION:badges-->
-</div>
-<br/>
+</p>
+
+<!-- TODO optional, swap the Security+ link for a Credly verification URL if you have one. -->
+
+<p align="center">
+  <sub>CKAD is in progress and is not listed as earned.</sub>
+</p>
+
+<!--
+  Optional stats, use only the Action-committed SVG (no third-party calls). Drop lang-stats.svg because it is C# and JavaScript heavy.
+  <p align="center"><img width="390" src="./stats.svg" alt="GitHub stats"></p>
+-->
