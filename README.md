@@ -26,8 +26,6 @@
   <a href="mailto:michael@michaelroy.dev">michael@michaelroy.dev</a>
 </p>
 
-<hr>
-
 <h2 align="center">About</h2>
 
 <p align="center">
@@ -65,19 +63,26 @@
 
 <h2 align="center">Skills and tools</h2>
 
-<p align="center">
-  <strong>Platform and infrastructure</strong>
-  <br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kubernetes,linux,debian,docker,aws,cloudflare" alt="Kubernetes, Linux, Debian, Docker, AWS, Cloudflare"></a>
-  <br>
-  <sub>k3s, Tailscale, Coolify, Traefik (VPS)</sub>
-</p>
-
-<p align="center">
-  <strong>Automation and CI/CD</strong>
-  <br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bash,python,git,github,githubactions" alt="Bash, Python, Git, GitHub, GitHub Actions"></a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <th align="center">Platform and Infrastructure</th>
+    <th align="center">Automation and CI/CD</th>
+    <th align="center">Also used</th>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kubernetes,linux,debian,docker,aws,cloudflare" alt="Kubernetes, Linux, Debian, Docker, AWS, Cloudflare"></a>
+      <br>
+      k3s, Tailscale, Coolify, Traefik (VPS)
+    </td>
+    <td align="center" width="34%">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bash,python,git,github,githubactions" alt="Bash, Python, Git, GitHub, GitHub Actions"></a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,cs,postgres,react" alt="JavaScript, C#, PostgreSQL, React"></a>
+    </td>
+  </tr>
+</table>
 
 <!-- TODO add only when true
   Terraform, Ansible (automation)
@@ -86,48 +91,47 @@
   e.g. https://skillicons.dev/icons?i=terraform,ansible,prometheus,grafana
 -->
 
-<p align="center">
-  <strong>Also used</strong>
-  <br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,cs,postgres,react" alt="JavaScript, C#, PostgreSQL, React"></a>
-</p>
-
 <h2 align="center">Projects</h2>
 
-<p align="center">
-  <strong>Homelab k3s cluster</strong>
-  <br>
-  6 node HA k3s cluster on bare metal with 3 control plane and 3 worker nodes.
-  <br>
-  <!-- TODO link when the homelab repo is public and has passed a gitleaks scan
-  <a href="https://github.com/its-michaelroy/REPO-NAME">Architecture notes and manifests</a>
-  -->
-  <em>Repository coming soon.</em>
-</p>
-
-<p align="center">
-  <strong><a href="https://github.com/its-michaelroy/twoge_demo">twoge_demo</a></strong>
-  <br>
-  Hosted the Twoge application on AWS infrastructure as a DevOps program assessment.
-</p>
-
-<p align="center">
-  <strong><a href="https://github.com/its-michaelroy/ResumeGenerator">ResumeGenerator</a></strong>
-  <br>
-  Resume PDF generator written in C# with QuestPDF.
-</p>
-
-<p align="center">
-  <strong><a href="https://github.com/its-michaelroy/HamStudyX">HamStudyX</a></strong>
-  <br>
-  Cross-platform study app for ham radio license exams, built with .NET MAUI.
-</p>
-
-<p align="center">
-  <strong><a href="https://github.com/its-michaelroy/StockSmart-IMS">StockSmart IMS</a></strong>
-  <br>
-  Pantry inventory app with full CRUD, built with React, Next.js, MUI and Firebase.
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <strong>Homelab k3s cluster</strong>
+      <br>
+      6 node HA k3s cluster on bare metal with 3 control plane and 3 worker nodes.
+      <br>
+      <!-- TODO link when the homelab repo is public and has passed a gitleaks scan
+      <a href="https://github.com/its-michaelroy/REPO-NAME">Architecture notes and manifests</a>
+      -->
+      <em>Repository coming soon.</em>
+    </td>
+    <td align="center" width="50%">
+      <strong><a href="https://github.com/its-michaelroy/twoge_demo">twoge_demo</a></strong>
+      <br>
+      Hosted the Twoge application on AWS infrastructure as a DevOps program assessment.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong><a href="https://github.com/its-michaelroy/ResumeGenerator">ResumeGenerator</a></strong>
+      <br>
+      Resume PDF generator written in C# with QuestPDF.
+    </td>
+    <td align="center" width="50%">
+      <strong><a href="https://github.com/its-michaelroy/HamStudyX">HamStudyX</a></strong>
+      <br>
+      Cross-platform study app for ham radio license exams, built with .NET MAUI.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong><a href="https://github.com/its-michaelroy/StockSmart-IMS">StockSmart IMS</a></strong>
+      <br>
+      Pantry inventory app with full CRUD, built with React, Next.js, MUI and Firebase.
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
 
 <!-- Optional TODO, one security practice repo with sanitized hardening notes or scripts. Use example.com placeholders and no real configs. -->
 
