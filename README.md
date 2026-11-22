@@ -187,13 +187,13 @@
 <h2 align="center">📚 Projects 📚</h2>
 <br>
 <div align="left">
-  <a href="https://github.com/its-michaelroy/ValidationStation" target="_blank"><img src="https://michaelroy.dev/images/validation.png" alt="Validation Station" style="width: 100px; height: 100px;"/></a>
+  <a href="https://github.com/its-michaelroy/ValidationStation" target="_blank"><img src="images/validate.png" alt="Validation Station" style="width: 100px; height: 100px;"/></a>
   <h3>Validation Station - Mar 2024</h3>
   <a href="https://github.com/its-michaelroy/ValidationStation">github.com/its-michaelroy/ValidationStation</a>
     <p> </p>
   <p>Application created for businesses as a way to create a database of valid contact information and for individual use as a way to avoid spam via email and phone calls. Future use will include a way to import and export csv data for blacklist and whitelist. Built using Python, JavaScript ES6, Django, React, and a PostgreSQL database for storing user Login, Email, and Phone information. Utilizes API for email and phone number validation from Big Data Cloud.</p>
   <br/>
-  <a href="https://github.com/L-Carr/Platoon-Console" target="_blank"><img src="https://michaelroy.dev/images/platoon-console-v3.svg" alt="Platoon Console" style="width: 100px; height: 100px;"/></a>
+  <a href="https://github.com/L-Carr/Platoon-Console" target="_blank"><img src="images/pconsole.png" alt="Platoon Console" style="width: 100px; height: 100px;"/></a>
   <h3>Platoon Console - Apr 2024</h3>
   <a href="https://github.com/L-Carr/Platoon-Console">github.com/L-Carr/Platoon.Console</a>
     <p> </p>
@@ -205,20 +205,20 @@
   <p> </p>
   <p>Web application designed to provide users with educational insights into the potential dangers of asteroid impacts. Built using Python, JavaScript ES6, Django, React and hosted on Render with NASA’s Sentry API.</p>
   <br/>
-  <a href="https://github.com/its-michaelroy/StockSmart-IMS/" target="_blank"><img src="https://github.com/its-michaelroy/StockSmart-IMS/blob/main/images/stocksmart.png?raw=true" alt="Inventory list of food items" style="width: 100px; height: 100px;"/></a>
+  <a href="https://github.com/its-michaelroy/StockSmart-IMS/" target="_blank"><img src="images/stocksmart.png" alt="Inventory list of food items" style="width: 100px; height: 100px;"/></a>
   <h3>Stock Smart Pantry Tracker - Jul 2024</h3>
   <a href="https://github.com/its-michaelroy/StockSmart-IMS/">github.com/its-michaelroy/StockSmart-IMS/</a>
     <p> </p>
   <p>Project showcases expertise in modern web development frameworks, data management with full CRUD (Create, Read, Update, Delete) capabilities, and user interface design using MUI components.
   Built a real-time pantry tracking application with React, NextJS, MUI, and Firebase.</p>
   <br/>
-  <a href="https://github.com/Headstarters/Flash-card-app" target="_blank"><img src="https://github.com/user-attachments/assets/314791b6-8be6-4ef8-b01a-08147063f451" alt="Flash Card Black and blue background" style="width: 100px; height: 100px;"/></a>
+  <a href="https://github.com/Headstarters/Flash-card-app" target="_blank"><img src="images/flash.png" alt="Flash Card Black and blue background" style="width: 100px; height: 100px;"/></a>
   <h3>FlashAce AI - Aug 2024</h3>
   <a href="https://github.com/Headstarters/Flash-card-app">github.com/Headstarters/Flash-card-app</a>
     <p> </p>
   <p>Dynamic AI flashcard application with study mode, allowing users to generate custom decks for efficient learning.Built using Next, React, JavaScript ES6, MUI, Firebase, Clerk, OpenAI, and Stripe API.</p>
   <br/>
-<a href="https://github.com/its-michaelroy/HamStudyX" target="_blank"><img src="https://github.com/its-michaelroy/HamStudyX/blob/main/Resources/Images/HamStudyX.jpg" alt="Microphone with headset next to icon with HamStudyX" style="width: 100px; height: 100px;"/></a>
+<a href="https://github.com/its-michaelroy/HamStudyX" target="_blank"><img src="images/hamstudyx.png" alt="Microphone with headset next to icon with HamStudyX" style="width: 100px; height: 100px;"/></a>
   <h3>HamStudyX - January 2025</h3>
   <a href="https://github.com/its-michaelroy/HamStudyX">github.com/its-michaelroy/HamStudyX</a>
     <p> </p>
