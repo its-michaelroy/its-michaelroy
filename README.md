@@ -199,7 +199,7 @@
     <p> </p>
   <p>Web application dashboard for managing Code Platoon cohorts, offering centralized access to course materials. Built using Python, JavaScript ES6, Django, React, and a PostgreSQL database with Google API.</p>
   <br/>
-  <a href="https://deep-impact.onrender.com/" target="_blank"><img src="https://michaelroy.dev/images/DeepImpact.jpeg" alt="Earth Comet!" style="width: 100px; height: 100px;"/></a>
+  <a href="https://deep-impact.onrender.com/" target="_blank"><img src="images/impact.png" alt="Earth Comet!" style="width: 100px; height: 100px;"/></a>
   <h3 id="deep-impact">Deep Impact - May 2024</h3>
   <a href="https://deep-impact.onrender.com/">deep-impact.onrender.com/</a>
   <p> </p>
