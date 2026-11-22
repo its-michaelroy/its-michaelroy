@@ -12,10 +12,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
-      - name: Pull in dev.to posts
+        uses: actions/checkout@v7
+      - name: Pull in Blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://dev.to/feed/creative_brain_inc"
-          max_post_count: 15
+          feed_list: "https://michaelroy.dev/posts/index.xml"
+          max_post_count: 5
           item_template: "- [$title]($url)"
+          retry_count: 3
