@@ -18,5 +18,5 @@ jobs:
         with:
           feed_list: "https://michaelroy.dev/posts/index.xml"
           max_post_count: 5
-          item_template: "- [$title]($url)"
+          template: '<a href="$url">$title</a><br/>'
           retry_count: 3
