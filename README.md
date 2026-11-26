@@ -49,8 +49,8 @@
 <h2 align="center">Latest Blog Posts</h2>
 
 <p align="center">
-<!-- BLOG-POST-LIST:START --><a href="https://michaelroy.dev/posts/my-post/">My Post</a><br/>
-<a href="https://michaelroy.dev/posts/hello-world/">Hello World</a><br/>
+<!-- BLOG-POST-LIST:START -->
+- [I Booked My CKAD Exam for January. Here’s My Plan](https://michaelroy.dev/posts/ckad-prep/)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 ➡️ <a href="https://michaelroy.dev/posts/">Read more on michaelroy.dev</a>
